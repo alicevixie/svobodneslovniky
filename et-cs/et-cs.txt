@@ -1,0 +1,3073 @@
+... ees	děkovat za ... (GEN)			xHire
+aabits, aabitsa, ?	abeceda	n:		xHire
+aadress, aadressi, aadressi, ?, ?	adresa	n:		xHire
+aasta, aasta, aastat, aastate, aastaid	rok	n:		xHire
+aastaaeg, aastaaja, aastaaega	roční období			xHire
+aastane, ?, ?	roční	adj:		xHire
+Abeli rühm, Abeli rühma, Abeli rühma, ?, ?	Abelova grupa	n: [mat.]		xHire
+Abeli rühm, Abeli rühma, Abeli rühma, ?, ?	abelovská grupa	n: [mat.]		xHire
+abessiiv, ?, ?, ?, ?	abessiv	n: [lingv.]	z latiny	xHire
+abi, abi, abi, abide, abisid [ILL] appi	pomoc	n:		xHire
+abielu, abielu, abielu, ?, ?	manželství	n:		xHire
+abikaasa, abikaasa, abikaasat, abikaasade, abikaasasid	manžel	n:		xHire
+abikaasa, abikaasa, abikaasat, abikaasade, abikaasasid	manželka	n:		xHire
+abistama, ?, ?				
+ablatiiv, ?, ?, ?, ?	ablativ	n: [lingv.]	vnější místní pád – směr ven (s něčeho); z latiny	xHire
+absoluutne, ?, ?				
+adessiiv, ?, ?, ?, ?	adessiv	n: [lingv.]	vnější místní pád – statický (na něčem); z latiny	xHire
+administratsioon, administratsiooni, ?	administrativa			xHire
+adrenaliin, ?, ?, ?, ?	adrenalin	n:		xHire
+adresseerima, adresseerida, adresseerin	adresovat	v: +GEN		xHire
+advokaat, advokaadi, advokaati, advokaatide, advokaate	advokát	n:		xHire
+aed, aia, aeda, ?, ?, [ILL] aeda	zahrada	n:		xHire
+aedvili, aedvilja, aedvilja, aedviljade, aedvilju	zelenina	n:		xHire
+aeg, aja, aega	čas	n:		xHire
+aeglane, aeglase, aeglast, aeglaste, aeglaseid	pomalý	adj:		xHire
+aeglaselt	pomalu	adv:		xHire
+aeglasem, ?, ?, ?, ?	pomalejší	adj:		xHire
+aerodünaamika, ?, ?, ?, ?		n:		
+afäär, ?, ?	aféra	n:		xHire
+aga	ale	conj:		xHire
+ahel, ahla, ahlat	řetězec			xHire
+ahi, ahju, ahju, ?, ?	kamna	n:		xHire
+ahoi	ahoj		pozdrav při loučení	xHire
+ahv, ?, ?, ?, ?	opice	n:		xHire
+Ain, ?, ?		mužské jméno		
+Aino, Aino, ?		? jméno		
+ainult	jenom	adv:		xHire
+ainult	pouze	adv:		xHire
+ainus, ainusa, ainusat		adj:		
+aitama, aidata, aitan	pomáhat	v: +DA infinitiv		xHire
+aitama, aidata, aitan	pomoci	v: +DA infinitiv		xHire
+aitäh	děkuji			xHire
+Aitäh ... eest.	Děkuji za ... (+ GEN/PART?)			xHire
+aitüma	děkuji			xHire
+Aivar, ?, ?		? jméno		
+Aivo, ?, ?		? jméno		
+ajakiri, ?, ajakirja, ?, ?		n:		
+ajakirjanik, ajakirjaniku, ajakirjanikku, ?, ?	novinář	n:		xHire
+ajaleht, ajalehe, ajalehte	noviny	n:	užívá se v plurálu: ajalehed	xHire
+ajaline, ajalise, ?, ?, ?	časový	adj:		xHire
+ajaliselt	časově	adv:		xHire
+ajaloolane, ajaloolase, ajaloolast	historik	n:		xHire
+ajalooline, ?, ?, ?, ?	historický	adj:		xHire
+ajalugu, ajaloo, ajalugu	historie	n:		xHire
+ajama, ?, ?				
+aken, akna, akent, akende, aknaid	okno	n:		xHire
+aknalaud, ?, ?, ?, ?	parapet	n:		xHire
+akordion, akordioni, akordioni	akordeon	n:		xHire
+akordion, akordioni, akordioni	tahací harmonika	n:		xHire
+akordion, akordioni, akordionit	akordeon	n:		xHire
+akordion, akordioni, akordionit	tahací harmonika	n:		xHire
+aktiivne, aktiivse, ?, ?, ?	aktivní	adj:		xHire
+aktsiaselts, ?, ?, ?, ?	akciová společnost	n:		xHire
+akvaarium, akvaariumi, akvaariumi, ?, ?	akvárium	n:		xHire
+alaleütlev, ?, ?, ?, ?	allativ	n: [lingv.]	vnější místní pád – směr dovnitř (na něco)	xHire
+alalisvool, ?, ?, ?, ?	stejnosměrný proud	n: [el.]		xHire
+alaltütlev, ?, ?, ?, ?	ablativ	n: [lingv.]	vnější místní pád – směr ven (s něčeho)	xHire
+alalütlev, ?, ?, ?, ?	adessiv	n: [lingv.]	vnější místní pád – statický (na něčem)	xHire
+alastiolek, ?, ?, ?, ?	nahota	n:		xHire
+alati	vždy	adv:		xHire
+Albaania, ?, ?	Albánie			xHire
+alfabeet, ?, ?				
+algama, alata, algab	začít	v: +MA infinitiv	o věcech, dějích	xHire
+algkool, ?, ?, ?, ?	základní škola	n:		xHire
+algoritm, ?, ?, ?, ?	algoritmus	n:		xHire
+algus, alguse, algust, ?, ?	začátek	n:		xHire
+all	pod	adp: +GEN		xHire
+alla	dospod	adp: +GEN		xHire
+allatiiv, ?, ?, ?, ?	allativ	n: [lingv.]	vnější místní pád – směr dovnitř (na něco); z latiny	xHire
+alles	teprve?	adv:		xHire
+allkiri, ?, ?	podpis			xHire
+alt	zespod	adp: +GEN		xHire
+Ameerika Ühendriigid, ?, ?	USA			xHire
+Ameerika, Ameerika, ?	Amerika			xHire
+ameeriklane, ameeriklase, ameeriklast	Američan			xHire
+ameeriklane, ameeriklase, ameeriklast	Američanka			xHire
+amet, ?, ?	úřad			xHire
+ametlik, ametliku, ametlikku, ?, ?	formální	adj:		xHire
+ammoniaak, ?, ?	amoniak	n: [chem.]		xHire
+ammu	dávno	adv:		xHire
+analüüs, analüüsi, analüüsi, analüüside, analüüse	analýza	n:		xHire
+anatoomia, ?, ?, ?, ?	anatomie	n:		xHire
+andma, anda, annan	dát	v: +PART		xHire
+andmekiht, ?, ?, ?, ?	vrstva datového spoje	n: [it.]	L2 v síťovém ISO/OSI modelu	xHire
+Andres, ?, ?		mužské jméno		
+aneurüsm, aneurüsmi, ?, ?, ?	aneurysma	n: [med.]		xHire
+anime, anime, animet, animete, animeid	anime	n:		xHire
+Anne, ?, ?		? jméno		
+anne, ande, annet, annete, andeid				
+Anneli, ?, ?		ženské jméno		
+Anni, ?, ?		ženské jméno		
+annotatsioon, ?, ?	abstrakt			xHire
+annotatsioon, ?, ?	anotace			xHire
+Ants, ?, ?		mužské jméno		
+antud		adj:		
+Anu, ?, ?		ženské jméno		
+aordikaar, ?, ?				
+aort, aordi, ?, ?, ?	aorta	n: [med.]		xHire
+apelsin, apelsini, apelsini, ?, ?	pomeranč	n:		xHire
+apostroofi, ?, ?, ?, ?	apostrof	n:		xHire
+aprikoos, ?, ?	meruňka			xHire
+aprill, aprili, ?	duben			xHire
+apteek, apteegi, apteeki, [ILL] apteeki	lékárna			xHire
+arenguruum, ?, ?, ?, ?	prostor k růstu	n:	ve smyslu osobního rozvoje	xHire
+arg, ara, arga, ?, ?	zbabělý	adj:		xHire
+arglikult	nesměle	adv:		xHire
+argoon, ?, ?	argon	n: [chem.]		xHire
+arhiiv, ?, ?	archív			xHire
+aritmeetika, ?, ?, ?, ?	aritmetika	n:		xHire
+arktiline, ?, ?, ?, ?	arktický	adj:		xHire
+armas, armsa, armast, ?, ?	milý	adj:	i jako oslovení v dopise	xHire
+armas, armsa, armast, ?, ?	roztomilý	adj:		xHire
+armastama, armastada, armastan	milovat	v: +PART/DA infinitiv		xHire
+armastus, armastuse, armastust	láska			xHire
+arst, arsti, arsti, arstide, arste	doktor	n:		xHire
+arstiteadus, arstiteaduse, ?				
+aru saama, aru saada, saan aru	rozumět			xHire
+aru, ?, ?, ?, ?	rozum	n:		xHire
+arutlema, arutleda, arutlen		v:		
+arv, arvu, ?, ?, ?	číslo	n:		xHire
+arvama, arvata, arvan		v:		
+Arvo, ?, ?		mužské jméno		
+arvutama, ?, ?	počítat			xHire
+arvuti mäng	počítačová hra			xHire
+arvuti, arvuti, arvutit, arvutite, arvuteid	počítač	n:		xHire
+arvutihiir, ?, ?, ?, ?	počítačová myš	n: [it.]		xHire
+AS	a. s.	n: [zkr.]	aktisaselts	xHire
+ase, aseme, aset, asete, asemeid		n:		
+asend, ?, ?, ?, ?				
+asesõna, asesõna, asesõna, asesõnade, asesõnu	zájmeno	n: [lingv.]		xHire
+asi, asja, asja, asjade, asju	věc	n:		xHire
+astendamine, ?, ?, ?, ?	umocňování	n: [mat.]		xHire
+astigmaatiline, astigmaatilise, ?, ?, ?	astigmatický	adj: [med.]		xHire
+astigmatism, ?, ?, ?, ?	astigmatismus	n: [med.]	oční vada	xHire
+asuma, asuda, asub	ležet	v:	geograficky	xHire
+asuma, asuda, asub	nacházet se	v:		xHire
+Ateena, ?, ?	Atény		hlavní město Řecka	xHire
+Ateena, ?, ?	Athény		hlavní město Řecka	xHire
+atmosfäär, atmosfääri, ?	atmosféra			xHire
+audoktor, ?, ?, ?, ?				
+august, augusti, ?	srpen			xHire
+aula, aula, aulat				
+austerlane, austerlase, austerlast	Rakušan			xHire
+austerlane, austerlase, austerlast	Rakušanka			xHire
+Austraalia, ?, ?	Austrálie			xHire
+austraallane, austraallase, austraallast	Australan			xHire
+austraallane, austraallase, austraallast	Australanka			xHire
+Austria, Austria, ?	Rakousko			xHire
+auto, auto, autot, autode, autosid	auto	n:		xHire
+autojuht, autojuhi, ?	řidič			xHire
+autor, autori, ?	autor			xHire
+autosoom, ?, ?				
+avaleht, avalehe, avalehte	úvodní stránka			xHire
+avama, avada, avan	otevřít	v:		xHire
+avavili, avavilja, avavilja, avaviljade, avavilju		n: [bot.]		
+avenüü, ?, ?				
+baar, baari, baari, [ILL] baari				
+baasõli, ?, ?				
+bakter, bakteri, ?	baktérie	n:		xHire
+ballett, ?, ?				
+Balti, Baldi, Balti	Balt			xHire
+banaan, banaani, banaani	banán	n:		xHire
+banaanpuu, banaanpuu, banaanpuud	banánovník	n:		xHire
+bassein, basseini, basseini, basseinide, basseine	bazén	n:		xHire
+Belgia, ?, ?	Belgie			xHire
+Benno, ?, ?		mužské jméno		
+Berliin, ?, ?	Berlín		hlavní město Německa	xHire
+bestseller, bestselleri, ?, ?, ?		n:		
+bioloogia, ?, ?	biologie	n:		xHire
+biosfäär, ?, ?	biosféra			xHire
+blockchain, blockchaini, ?, ?, ?	bločenka	n: [it.]		xHire
+blokiahel, blokiahla, blokiahlat	blockchain			xHire
+Boheemia, ?, ?	Čechy			xHire
+boikottima, boikottida, boikotin	bojkotovat	v:		xHire
+Bonn, ?, ?				
+botaanika, ?, ?	botanika			xHire
+Brasiilia, Brasiilia, ?	Brazílie			xHire
+Bratislava, ?, ?	Bratislava		čte se [bratyslava]; hlavní město Slovenska	xHire
+brauser, ?, ?, ?, ?	prohlížeč	n: [it.]		xHire
+britt, ?, ?	Brit			xHire
+britt, ?, ?	Britka			xHire
+Brüssel, ?, ?	Brusel		hlavní město Belgie	xHire
+Budapest, ?, ?	Budapešť		hlavní město Maďarska	xHire
+Bulgaaria, ?, ?	Bulharsko			xHire
+burger, ?, ?				
+buss, bussi, bussi, busside, busse, [ILL] bussi	autobus	n:		xHire
+buss, bussi, bussi, busside, bussisid, [ILL] bussi	autobus	n:		xHire
+bussijaam, bussijaama, bussijaama, [ILL] bussijaama	autobusové nádraží	n:		xHire
+bussijuht, bussijuhi, ?, ?, ?	řidič autobusu	n:		xHire
+buššel, ?, ?, ?, ?	bušl	n: [fyz.]	dutá míra	xHire
+büdžett, ?, ?				
+büroo, büroo, bürood, ?, ?	kancelář	n:		xHire
+C-vitamiin, C-vitamiini, ?	vitamín C			xHire
+cappuccino, ?, ?				
+circa	cca			xHire
+circa	cirka			xHire
+cum laude				
+daam, daami, ?, ?, ?				
+defekt, ?, ?, ?, ?	defekt	n:		xHire
+defekt, ?, ?, ?, ?	poškození	n:		xHire
+deklaratsioon, ?, ?	deklarace			xHire
+deklaratsioon, ?, ?	prohlášení			xHire
+demonstratsioon, demonstratsiooni, demonstratsiooni, ?, ?				
+detsember, detsembri, ?	prosinec			xHire
+devon	devon	[geol.]	období prvohor	xHire
+diagnoos, diagnoosi, ?, ?, ?	diagnóza	n:		xHire
+dialoog, dialoogi, ?, ?, ?	dialog	n:		xHire
+dialoog, dialoogi, ?, ?, ?	rozhovor	n:		xHire
+diameeter, ?, ?	průměr			xHire
+digiraha, ?, ?	digitální peníze			xHire
+digitaalraha, ?, ?	digitální měna			xHire
+digitaalraha, ?, ?	digitální peníze			xHire
+dilämmastikoksiid, ?, ?	oxid dusný	[chem.]	N₂O	xHire
+diood, ?, dioodi, ?, ?	dioda	n: [el.]		xHire
+direktor, ?, ?				
+doktor, doktori, doktorit				
+doktorant, ?, ?, ?, ?	doktorand	n:	student doktorského studia	xHire
+doktoritöö, doktoritöö, doktoritööd, ?, ?		n:		
+dollar, dollari, dollarit, ?, ?	dolar	n: [fin.]		xHire
+doominoefekt, ?, ?, ?, ?	dominový efekt	n:		xHire
+doos, ?, ?				
+dotsent, ?, ?	docent			xHire
+draakon, ?, ?, ?, ?	drak	n:		xHire
+draama, ?, ?				
+droon, ?, ?, ?, ?	dron	n:		xHire
+džemm, ?, ?	džem			xHire
+Dubai, Dubai, ?	Dubaj			xHire
+Dublin, ?, ?	Dublin		čte se [tablin]; hlavní město Irska	xHire
+duširuum, ?, ?				
+dušš, ?, ?, ?, ?	sprcha	n:		xHire
+e-post, ?, ?, ?, ?	e-mail	n:		xHire
+Eda, ?, ?		ženské jméno		
+edasi	dále	adv:		xHire
+edasi-tagasi reis	zpáteční cesta		při nákupu jízdenky (tam i zpátky)	xHire
+edasimüüja, ?, ?	distributor			xHire
+edasimüüja, ?, ?	přeprodejce			xHire
+edel, ?, ?	jihozápad			xHire
+edevus, ?, ?				
+ediakara	ediakara	[geol.]	nejmladší perioda starohor	xHire
+edu, ?, ?, ?, ?	úspěch	n:		xHire
+edukas, ?, ?, ?, ?	úspěšný	adj:		xHire
+edumaa, edumaa, edumaad				
+eelis, eelise, eelist, eeliste, eeliseid	výhoda	n:		xHire
+ees	před	adp: +GEN	místo	xHire
+eesnimi, eesnime, eesnime	křestní jméno			xHire
+eest	zepředu	adp: +GEN	směr	xHire
+eest	zpředu	adp: +GEN	směr	xHire
+Eesti, Eesti, ?	Estonsko			xHire
+eesti, eesti, eestit	estonský			xHire
+eestlane, eestlase, eestast, eestlaste, ?	Estonec	n:		xHire
+eestlanna, ?, ?	Estonka	n:		xHire
+efekt, ?, ?	efekt			xHire
+efektne, ?, ?, ?, ?	efektní	adj:		xHire
+ega	ani			xHire
+egoism, ?, ?	egoismus			xHire
+egoism, ?, ?	sobectví			xHire
+egoistlik, ?, ?, ?, ?	egoistický	adj:		xHire
+ehe, ehte, ehet				
+ehitama, ehitada, ehitan	stavět	v: +PART		xHire
+ehk	možná			xHire
+ehmuma, ?, ehmun	leknout se	v:		xHire
+eile	včera	adv:		xHire
+eilne, eilse, eilset, eilsete, eilseid	včerejší	adj:		xHire
+Eino, ?, ?		mužské jméno		
+eitus, ?, ?	zápor	n: [lingv.]		xHire
+eks	ať	ptcl:		xHire
+eksam, eksami, ?, ?, ?	zkouška	n:		xHire
+ekskursioon, ekskursiooni, ekskursiooni, ?, ?				
+eksosfäär, ?, ?				
+eksperiment, ?, ?	experiment			xHire
+ekspert, ?, ?, ?, ?	expert	n:		xHire
+eksport, ?, ?	export			xHire
+ekspresident, ?, ?, ?, ?	exprezident	n:		xHire
+elama, elada, elan	být naživu	v:	např. Kas ta elab? – Je naživu?	xHire
+elama, elada, elan	žít	v:		xHire
+elamus, elamuse, elamust, ?, ?				
+elanik, elaniku, elanikku				
+elatiiv, ?, ?, ?, ?	elativ	n: [lingv.]	vnitřní místní pád – směr ven; z latiny	xHire
+elektrivool, ?, ?, ?, ?	elektrický proud	n: [el.]		xHire
+elevant, ?, ?, ?, ?	slon	n:		xHire
+elu, elu, elu, elude, elusid	život	n:		xHire
+ema, ema, ema, emade, emasid	máma	n:		xHire
+emakeel, emakeele, emakeelt	mateřský jazyk	n:		xHire
+emaplaat, emaplaadi, ?, ?, ?	základní deska	n: [it.]		xHire
+enam	už ne			xHire
+energia, energia, ?, ?, ?	energie	n:		xHire
+Enn, ?, ?		mužské jméno		
+ennast	se (zvratné)			xHire
+enne	dřív	adv:		xHire
+enne	dříve	adv:	např. Enne kui tuppa astute, … – Dříve než vstoupíte do pokoje, …	xHire
+ennetama, ?, ?				
+entsüklopeedia, ?, ?, ?, ?	encyklopedie	n:		xHire
+epopöa, ?, ?				
+eramaja, eramaja, eramaja				
+ere, ereda, eredat				
+Erika, Erika ?	Erika	ženské jméno		xHire
+eriline, erilise, erilist				
+erinema, ?, ?	odlišovat se	v:		xHire
+eriti	obzvláště	adv:		xHire
+esik, ?, ?, ?, ?				
+esimest korda	poprvé			xHire
+esitama, esitada, esitan	předložit	v:		xHire
+esitlema, esitleda, esitlen		v:		
+esmaspäev, esmaspäeva, esmaspäeva	pondělí	n:		xHire
+essiiv, ?, ?, ?, ?	essiv	n: [lingv.]	z latiny	xHire
+et	aby	conj:		xHire
+et	že	conj:		xHire
+ette	před	adp: +GEN	směr	xHire
+ette vaatama, ette vaadata, vaatan ette	dávat pozor	v:		xHire
+ettekandja, ?, ?, ?, ?		n:		
+ettevaatlik, ettevaatliku, ettevaatlikku, ?, ?	opatrný	adj:		xHire
+ettur, ?, ?	pěšec	n:	v šachu; (E)	xHire
+euro, euro, eurot	euro	n:		xHire
+Euroopa, Euroopa, Euroopat	Evropa			xHire
+Eva, ?, ?	Eva	ženské jméno		xHire
+Eve, ?, ?		ženské jméno		
+fail, faili, ?, ?, ?	soubor	n:		xHire
+failiserver, ?, ?, ?, ?	souborový server	n:		xHire
+fakt, ?, fakti, ?, ?	fakt	n:		xHire
+familiaarne, ?, ?				
+farmaatsia, ?, ?				
+farmakoloogia, ?, ?	farmakologie			xHire
+festival, ?, ?				
+figuur, ?, ?				
+fiksatsioon, ?, ?, ?, ?		n:		
+filiaal, ?, ?, ?, ?	pobočka	n:		xHire
+film, ?, ?				
+filoloogia, ?, ?	filologie			xHire
+filosoofia, ?, ?	filosofie			xHire
+filosoofia, ?, ?	filozofie			xHire
+finants, ?, ?				
+firma, firma, firmat, firmade, firmasid	firma	n:		xHire
+flööt, flöödi, flööti	flétna	n:		xHire
+fookus, ?, ?				
+foorum, ?, ?	fórum			xHire
+fopaa, ?, ?				
+foto, foto, fotot, fotode, fotosid		n:		
+fotograaf, ?, ?, ?, ?		n:		
+fotoon, fotooni, ?	foton			xHire
+fotoonika, ?, ?				
+freesimine, ?, ?, ?, ?	frézování	n:		xHire
+funktsioon, ?, ?, funktsioonide, ?	funkce	n:		xHire
+följeton, följetoni, följetoni, ?, ?				
+füüsika, füüsika, füüsikat	fyzika			xHire
+füüsiline kiht, ?, ?, ?, ?	fyzická vrstva	n: [it.]	L1 v síťovém ISO/OSI modelu	xHire
+gaasilamp, gaasilambi, gaasilampi				
+gaasiõli, ?, ?				
+garderoob, garderoobi, garderoobi, ?, ?				
+geenitehnoloogia, ?, ?				
+geenius, ?, ?	génius			xHire
+genitiiv, ?, ?	genitiv	n: [lingv.]		xHire
+genoom, ?, ?, ?, ?	genom	n: [bio.]		xHire
+geograafia, ?, ?	geografie			xHire
+geoloog, ?, ?	geolog			xHire
+geoloogia, ?, ?	geologie			xHire
+giid, ?, ?	průvodce	n:		xHire
+gladiool, gladiooli, gladiooli, ?, ?				
+gloobus, ?, ?	glóbus			xHire
+glükagoon, ?, ?, ?, ?		n:		
+graaf, ?, ?	graf			xHire
+graafiteooria, ?, ?	teorie grafů			xHire
+graal, graali, ?, ?, ?	grál	n:		xHire
+gramm, ?, grammi	gram	n:	jednotka hmotnosti	xHire
+grammatika, ?, ?	gramatika			xHire
+gripp, ?, ?, ?, ?	chřipka	n: [med.]		xHire
+grupp, grupi, gruppi, gruppide, gruppe	skupina	n:		xHire
+gümnaasium, gümnaasiumi, gümnaasiumi, ?, ?				
+haab, haava, haaba				
+habe, habeme, ?, ?, ?	vousy	n:		xHire
+haige, haige, haiget, ?, ?	nemocný	adj:		xHire
+haigeks jääma, haigeks jääda, jään haigeks	onemocnět	v:		xHire
+haigla, haigla, haiglat, haiglate, haiglaid	nemocnice	n:		xHire
+haigus, haiguse, ?, ?, ?	nemoc	n:		xHire
+hajumine, ?, ?, ?, ?	rozptyl	n:		xHire
+hakkama, hakata, hakkan	začínat	v: +MA infinitiv	jen ve spojení s osobami (tj. nikoli neživé děje)	xHire
+halb, halva, halba, ?, ?	špatný	adj:		xHire
+hale, ?, ?, ?, ?	žalostný	adj:		xHire
+hall, halli, halli	šedý	adj:		xHire
+halogeenlamp, halogeenlambi, halogeenlampi				
+halvasti	špatně	adv:		xHire
+halvem, ?, ?, ?, ?	horší	adj:		xHire
+halvem, ?, ?, ?, ?	špatnější	adj:		xHire
+hambaarst, hambaarsti, hambaarsti, ?, ?	zubař	n:		xHire
+hammas, hamba, hammast, hammaste, hambaid	zub	n:		xHire
+Hannes, ?, ?		? jméno		
+Hanno, ?, ?		mužské jméno		
+haploidne, ?, ?				
+hapnik, ?, ?	kyslík	n: [chem.]		xHire
+hapu, ?, ?, ?, ?	kyselý	adj:		xHire
+hapukapsasupp, ?, ?, ?, ?		n:		
+hapukas, ?, ?, ?, ?	nakyslý	adj:		xHire
+hapukoor, hapukoore, hapukoort, ?, ?	zakysaná smetana	n:		xHire
+hari, harja, harja				
+haridusteadus, ?, ?				
+harilik mänd	borovice lesní	[bot.]		xHire
+harilik, hariliku, ?, ?, ?	běžný	adj:		xHire
+harilikult	běžně	adv:		xHire
+harjuma, ?, ?	zvyknout si	v: +KOM		xHire
+harjutus, harjutuse, harjutust, harjutuste, harjutusi	cvičení	n:		xHire
+harmoonia, ?, ?				
+haruharva	jednou za uherský rok			xHire
+hea, hea, head, heade, häid	dobrý	adj:		xHire
+head aega	na shledanou			xHire
+headus, ?, ?, ?, ?	dobrota	n:		xHire
+heelium, ?, ?	hélium	n: [chem.]		xHire
+hele, heleda, heledat	čistý	adj:	např. o hlase	xHire
+hele, heleda, heledat	světlý	adj:		xHire
+heledalt	světle	adv:		xHire
+heledasti	světle	adv:		xHire
+Heli, ?, ?		ženské jméno		
+helikopter, helikopteri, helikopterit, helikopterite, ?	helikoptéra	n:		xHire
+helikopter, helikopteri, helikopterit, helikopterite, ?	vrtulník	n:		xHire
+helisema, ?, ?	zvonit	v:		xHire
+helistama, helistada, helistan	volat	v:		xHire
+Helsingi, ?, ?	Helsinki		hlavní město Finska	xHire
+Henno, ?, ?		? jméno		
+hernes, herne, hernest	hrách	n:		xHire
+heterosfäär, ?, ?				
+hetk, hetke, hetke, ?, ?	chvíle	n:		xHire
+Hiie, ?, ?		ženské jméno		
+hiiglane, hiiglase, hiiglast	obr			xHire
+Hiina, Hiina, ?	Čína			xHire
+hiinlane, hiinlase, hiinlast	Číňan			xHire
+hiinlane, hiinlase, hiinlast	Číňanka			xHire
+hiir, ?, ?, ?, hiiri	myš	n:		xHire
+hiirlased	myšovití	[zoo.]		xHire
+hilja	pozdě	adv:		xHire
+hiljaks jääma, hiljkas jääda, jään hiljaks	zpozdit se	v:		xHire
+hiljuti	poslední dobou	adv:		xHire
+hind, hinna, hinda, hindade, hindu		n:		
+hindama, hinnata, hindan		v:		
+hindamine, ?, ?				
+hing, hinge, hinge, ?, ?				
+hinge, ?, ?, ?, ?	dech	n:		xHire
+hingede päev	dušičky			xHire
+hinnakiri, ?, ?, ?, ?	ceník	n:		xHire
+hinne, hinde, hinnet	známka	n:		xHire
+hirm, ?, ?, ?, ?		n:		
+hirmsasti	strašně	adv:		xHire
+hirmus, ?, ?, ?, ?	strašný	adj:		xHire
+hirmutama, hirmutada, hirmutan	vystrašit	v:		xHire
+hispaania, ?, ?	španělský			xHire
+Hispaania, Hispaania, ?	Španělsko			xHire
+hispaanlane, hispaanlase, hispaanlast	Španěl			xHire
+hispaanlane, hispaanlase, hispaanlast	Španělka			xHire
+histoloogia, ?, ?	histologie	n:		xHire
+hobi, hobi, hobi, hobide, hobisid	hobby	n:		xHire
+hobi, hobi, hobi, hobide, hobisid	koníček	n:		xHire
+hobune, hobuse, hobust, hobuste, hobuseid	kůň	n:		xHire
+hoidis, hoidise, hoidist, hoidiste, hoidiseid	zavařenina	n:	ovocná, zeleninová, houbová, …	xHire
+hoidma, hoida, hoian		v:		
+hoidmine, hoidmise, hoidmist, ?, ?		n:		
+Holland, ?, ?	Nizozemí			xHire
+hollandi, ?, ?	holandský			xHire
+holotseen	holocén	[geol.]	mladší čtvrtohory	xHire
+homme	zítra	adv:		xHire
+hommik, hommiku, hommikut, hommikute, hommikuid	ráno	n:		xHire
+homosfäär, ?, ?				
+hoolima, ?, hoolin		v:		
+hoolitsema, hoolitseda, hoolitsen	postarat se	v:		xHire
+hoone, hoone, hoonet, ?, ?	budova	n:		xHire
+hoopis	spíš			xHire
+hormoon, hormooni, hormooni, hormoonide, hormoone	hormon	n:		xHire
+horoskoop, ?, ?	horoskop			xHire
+Horvaatia, ?, ?	Chorvatsko			xHire
+hotell, hotelli, hotelli, ?, hotelle, [ILL] hotelli	hotel	n:		xHire
+hotell, hotelli, hotelli, ?, hotelle, [ILL] hotellisse	hotel	n:		xHire
+hulk, hulga, hulka, ?, hulki				
+hunt, ?, ?, ?, hunte		n:		
+huvirühm, huvirühma, huvirühma, ?, ?	zájmová skupina	n:		xHire
+huvitav, huvitava, huvitavat, ?, huvitavaid	zajímavý	adj:		xHire
+hõõglamp, hõõglambi, hõõglampi				
+häbelik, ?, ?, ?, ?		adj:		
+häda, häda, häda, ?, hädasid				
+häkker, häkkeri, ?, ?, ?	hacker	n:		xHire
+härra, härra, härrat	pán	n:		xHire
+hästi	dobře	adv:		xHire
+hääl, hääle, häält, häälte, hääli	hlas	n:		xHire
+hääldamine, ?, ?	vyslovování	n:		xHire
+hüdrobioloogia, ?, ?				
+hüdrosfäär, ?, ?	hydrosféra			xHire
+hüljes, hülge, hüljest, ?, ?	tuleň	n:		xHire
+hümn, hümni, hümni, hümnide, hümne	hymna	n:		xHire
+hüpe, hüppe, hüpet, ?, ?	skok	n:		xHire
+hüppama, hüpata, hüppan	skočit	v:		xHire
+hüvasti			pozdrav	
+hüüdma, hüüda, hüüan	zavolat	v: +ALL	někoho z dálky	xHire
+hüüdnimi, hüüdnime, hüüdnime	přezdívka	n:		xHire
+ida, ida, ?, ?, ?	východ	n:		xHire
+ideaalne, ?, ?	ideální	adj:		xHire
+idee, ?, ?, ideede, idesid		n:		
+idempotent, ?, ?, ?, ?	neutrální prvek	n: [mat.]		xHire
+idempotentne element, ?, ?, ?, ?	neutrální prvek	n: [mat.]		xHire
+idempotentsus, ?, ?, ?, ?	idempotence	n: [mat.]		xHire
+idempotentsus, ?, ?, ?, ?	idempotentnost	n: [mat.]		xHire
+iga, iga, igat	každý	adj:	opakující se, např. den – iga päev –, nebo výčet	xHire
+igasugune, ?, ?, ?, ?	jakýkoliv	adj:		xHire
+igav, igava, igavat				
+ihuvili, ihuvilja, ihuvilja, ihuviljade, ihuvilju		n: [bot.]		
+iiri, ?, ?	irský			xHire
+Iiri, ?, ?	Irsko			xHire
+Iirimaa, Iirimaa, Iirimaad	Irsko			xHire
+ikka	pořád(?)	adv:		xHire
+ikkagi	{still}			xHire
+illatiiv, ?, ?, ?, ?	illativ	n: [lingv.]	vnitřní místní pád – směr dovnitř; z latiny	xHire
+ilm, ilma, ilma, ?, ?	počasí	n:		xHire
+ilma	bez			xHire
+ilmastik, ilmastiku, ?, ?, ?	podnebí	n:		xHire
+ilmatu, ?, ?, ?, ?	enormní	adj:		xHire
+ilmatu, ?, ?, ?, ?	obrovský	adj:		xHire
+ilmaütlev, ?, ?, ?, ?	abessiv	n: [lingv.]		xHire
+ilmselt		adv:		
+ilmuma, ?, ?	objevit se	v:		xHire
+ilu, ?, ?				
+ilus, ilusa, ilusat, ilusate, ilusaid	hezký	adj:		xHire
+ilusam, ?, ?, ?, ?	hezčí	adj:		xHire
+imelihtne, ?, ?				
+imeline, imelise, imelist	úžasný			xHire
+imestama, ?, ?	podivit se	v:		xHire
+import, ?, ?	import	n:		xHire
+India, India, ?	Indie			xHire
+inessiiv, ?, ?, ?, ?	inessiv	n: [lingv.]	vnitřní místní pád – statický (v něčem); z latiny	xHire
+inetu, inetu, inetut, ?, ?	škaredý	adj:		xHire
+informaatika, informaatika, ?	informatika			xHire
+infotehnoloogia, infotehnoloogia, ?, ?, ?		v:		
+infrastruktuur, ?, ?, ?, ?	infrastruktura	n:		xHire
+inglane, inglase, inglast	Angličan			xHire
+inglane, inglase, inglast	Angličanka			xHire
+inglise, ?, ?	anglický			xHire
+Inglismaa, Inglismaa, Inglismaad	Anglie			xHire
+ingver, ingveri, ?, ?, ?	zázvor	n:		xHire
+inimene, inimese, inimest, inimeste, inimeseid	člověk	n:		xHire
+inimene, inimese, inimest, inimeste, inimesi	člověk	n:		xHire
+inimlik, ?, ?, ?, ?	lidský	adj:		xHire
+innervatsioon, ?, ?, ?, ?		n:		
+insaider, ?, ?	zasvěcenec			xHire
+inspektor, ?, ?	inspektor	n:		xHire
+inspektsioon, ?, ?, ?, ?	inspekce	n:		xHire
+insuliin, ?, ?, ?, ?	inzulín	n:		xHire
+interaktiivne, interaktiivse, ?, ?, ?	interaktivní	adj:		xHire
+intervjuu, intervjuu, intervjuud, intervjuude, intervjuusid		n:		
+invaliid				
+investeerija, ?, ?	investor			xHire
+investeerima, investeerida, investeerin	investovat			xHire
+investeerimine, ?, ?	investování			xHire
+investeerimis, ?, ?	investiční			xHire
+investor, investori, investorit	investor			xHire
+irvitama, ?, ?		v:		
+isa, isa, isa, isade, isasid	táta	n:		xHire
+isamaa, isamaa, isamaad	vlast	n:		xHire
+ise	sám			xHire
+ise	sám		např. Ma teen seda ise. – Udělám to sám.; neplést s {et üksi}	xHire
+ise oma	svůj vlastní	adj:		xHire
+isegi	dokonce			xHire
+isiklik, ?, ?, ?, ?	osobní	adj:		xHire
+isikuline, isikulise, isikulist, isikuliste, isikulisi	osobní	adj:		xHire
+istuma, istuda, istun	sedět	v:		xHire
+isu, ?, ?	chuť			xHire
+itaalia, ?, ?	italský			xHire
+Itaalia, Itaalia, Itaaliat	Itálie			xHire
+itaallane, itaallase, itaallast	Ital			xHire
+itaallane, itaallase, itaallast	Italka			xHire
+itk, ?, ?	žalozpěv	n:		xHire
+jaa	jo	ptcl:		xHire
+jaam, jaama, jaama, [ILL] jaama	nádraží	n:		xHire
+Jaan, ?, Jaani	Jan	mužské jméno		xHire
+jaanipäev	letní slunovrat			xHire
+jaanuar, jaanuari, ?	leden			xHire
+jaapani, ?, ?, ?, ?	japonský	adj:		xHire
+jagada, ?, ?	děleno			xHire
+jagama, jagada, jagan	sdílet	v:		xHire
+jagamine, ?, ?, ?, ?	dělení	n: [mat.]		xHire
+jagatud	děleno			xHire
+jah	ano	ptcl:		xHire
+jaksama, jaksata, jaksan	být schopen	v:	často fyzicky; např. Ma ej jaksa minna. – Nejsem schopen chodit.	xHire
+jala	pěšky	adv:		xHire
+jalg, jala, jalga, jalgade, jalgu	noha	n:		xHire
+jalgpall, jalgpalli, jalgpalli, jalgpallide, ?	fotbal	n:		xHire
+jalgpallur, jalgpalluri, jalgpallurit, ?, ?	fotbalista	n:		xHire
+jalgratas, jalgratta, jalgratast, jalgrataste, ?	jízdní kolo	n:		xHire
+jalgsi	pěšky	adv:		xHire
+jalutama, jalutada, jalutan	procházet se	v:		xHire
+Janne, ?, ?		? jméno		
+jms.		[zkr.]		
+Joan, ?, ?		mužské jméno		
+jogurt, ?, jogurtit	jogurt	n:		xHire
+Johanna, ?, ?		ženské jméno		
+jood, ?, ?	jód	n: [chem.]		xHire
+jook, joogi, jooki, jookide, jooke	nápoj	n:		xHire
+jooks, jooksu, jooksu				
+jooksja, jooksja, jooksjat, ?, ?		n:		
+jooksma, jooksta, jooksen	běhat	v:		xHire
+jooksma, jooksta, jooksen	běžet	v:		xHire
+jooma, juua, joon	pít	v: +PART		xHire
+joonistama, joonistada, joonistan	kreslit	v:		xHire
+jootmine, ?, ?	pájení			xHire
+jope, jope, jopet, jopede, jopesid	bunda	n:		xHire
+joulupuu, joulupuu, joulupuud, ?, ?	vánoční strom	n:		xHire
+ju				
+juba	už			xHire
+Jugoslaavia, ?, ?	Jugoslávie			xHire
+Juhan, Juhani, ?		mužské jméno		
+juhendaja, juhendaja, juhendajat, ?, juhendajaid	instruktor	n:		xHire
+juhtuma, ?, ?	stát se	v:	např. Stalo se to, že … – Juhtus nii, et …	xHire
+julge, julge, julget, ?, ?	odvážný	adj:		xHire
+jumalavili, jumalavilja, jumalavilja, jumalaviljade, jumalavilju		n:		
+jurist, ?, ?				
+just	zrovna			xHire
+jutt, jutu, juttu, juttude, jutte		n:		
+jutumärk, jutumärgi, ?	uvozovka			xHire
+jutustus, jutustuse, jutustust				
+juubel, ?, ?				
+juuksur, ?, ?, ?, ?		n:		
+juuli, juuli, ?	červenec			xHire
+juuni, juuni, ?	červen			xHire
+juunior, ?, ?	junior	n:		xHire
+juur, juure, juurt, ?, ?				
+juurvili, juurvilja, juurvilja, juurviljade, juurvilju	kořenová zelenina	n:		xHire
+juust, juustu, juustu, ?, ?	sýr	n:		xHire
+jõeorg, jõeoru, ?, ?, ?	údolí	n:		xHire
+jõgi, jõe, jõge, jõgede, jõgesid	řeka	n:		xHire
+jõhvikas, ?, ?, ?, ?	klikva	n:		xHire
+jõud, jõu, jõudu				
+jõudma, jõuda, ?	zvládnout	v:		xHire
+jõulud	Vánoce			xHire
+jälle	opět			xHire
+jälle	zase			xHire
+jänes, jänese, jänest, jäneste, jäneseid	zajíc	n:		xHire
+jänesena sõitma, ?, ?	jet na černo	v:		xHire
+järele	pro	adp: +ILL	např. přijít si pro (něco)	xHire
+järgmine, järgmise, järgmist	další	adj:		xHire
+järgmine, järgmise, järgmist	příští	adj:		xHire
+järv, järve, järve, ?, järvi	jezero	n:		xHire
+jätkuma, jätkuda, jätkun		v:		
+jätma, jätta, jätan	nechat	v:	něčeho	xHire
+jätma, jätta, jätan	přestat	v:		xHire
+jää, jää, jääd	led	n:		xHire
+jäähoki, ?, ?	hokej	n:		xHire
+jääma, jääda, jään	zůstat	v: +ILL		xHire
+jäänud, ?, ?, ?, ?	zbylý?	adj:		xHire
+jääsupp, ?, ?, ?, ?		n:		
+jäätis, jäätise, jäätist, jäätiste, ?	zmrzlina	n:		xHire
+Jüri, ?, ?	Jiří	mužské jméno		xHire
+ka	také			xHire
+kaaluma, kaaluda, kaalun		v:		
+kaar, kaare, kaart				
+kaart, kaardi, kaarti, ?, kaarte	mapa	n:		xHire
+kaas, kaane, kaant				
+kaasaütlev, ?, ?, ?, ?	komitativ	n: [lingv.]		xHire
+kabe, ?, ?, ?, ?	dáma	n:	hra	xHire
+kadu, kao, kadu				
+kadunud, ?, ?, ?, ?	ztracený	adj:		xHire
+kaebama, kaevata, kaeban	stěžovat si	v:		xHire
+kael, kaela, kaela, ?, ?	krk	n:		xHire
+kaev, kaevu, kaevu				
+kagu, ?, ?	jihovýchod			xHire
+kaheksa, kaheksa, ?	osm	num:		xHire
+kaheksakümmend, ?, ?	osmdesát	num:		xHire
+kaheksasada, ?, ?	osm set	num:		xHire
+kaheksateist, ?, ?	osmnáct	num:		xHire
+kahju	škoda			xHire
+kahjuks	bohužel			xHire
+kahjurõõm, ?, ?, ?, ?	škodolibá radost			xHire
+kaht				
+kahtlema, kahelda, kahtlen		v:		
+kahtlus, ?, ?, ?, ?				
+kahvatu, ?, ?, ?, ?	bledý	adj:		xHire
+kahvel, kahvli, kahvlit, kahvlite, ?	vidlička	n:		xHire
+Kaie, ?, ?		? jméno		
+kajama, ?, ?				
+kajut, ?, ?, ?, ?	kajuta			xHire
+kaks korda	dvakrát	adv:		xHire
+kaks, kahe, kaht	dva	num:		xHire
+kaks, kahe, kaht	dvě	num:		xHire
+kaksisvee, ?, ?	dvojité vé		w	xHire
+kakskümmend, kahekümne, ?	dvacet	num:	např. 21 – kakskümmend üks (GEN kahekümne ühe)	xHire
+kakssada, ?, ?	dvě stě	num:		xHire
+kaksteist, ?, ?	dvanáct	num:		xHire
+kala, kala, kala, kalade, ?	ryba	n:		xHire
+kalender, ?, kalendrit, ?, ?	kalendář	n:		xHire
+Kalev, ?, ?		? jméno		
+kalkun, kalkuni, kalkunit, ?, ?	krocan	n:		xHire
+kalkun, kalkuni, kalkunit, ?, ?	krůta	n:		xHire
+Kalle, ?, ?		? jméno		
+kallilt	draze	adv:		xHire
+kallim, ?, ?, ?, ?	dražší	adj:		xHire
+kallis, kalli, kallist, kalliste, kalleid	drahý	adj:		xHire
+kalu, ?, ?				
+kalur, kaluri, kalurit				
+kambrium	kambrium	[geol.]	období prvohor	xHire
+kamm, kammi, kammi, ?, ?	hřeben	n:		xHire
+kammima, ?, ?				
+kampsun, kampsuni, kampsunit, ?, ?	svetr	n:		xHire
+kana, kana, kana, ?, ?	slepice	n:		xHire
+Kanada, Kanada, ?	Kanada			xHire
+kanadalane, kanadalase, kanadalast	Kanaďan			xHire
+kanadalane, kanadalase, kanadalast	Kanaďanka			xHire
+kandma, kanda, kannan	nosit	v: +PART	na sobě – o oblečení	xHire
+kangesti	strašně	adv:		xHire
+kangur, kanguri, kangurit				
+kannel, kandle, kannelt				
+kapp, kapi, kappi, ?, kappe	skříň	n:		xHire
+kapsas, kapsa, kapsaast, ?, ?	zelí	n:		xHire
+karbiidlamp, karbiidlambi, karbiidlampi				
+kardama, karrata, kardan	bát se	v: +PART		xHire
+kardama, karrata, kardan	mít strach	v: +PART		xHire
+kardin, kardini, ?, ?, ?	záclona	n:		xHire
+kardinaalarv, kardinaalarvu, ?, ?, ?	kardinální číslo	n: [mat.]		xHire
+kare, kareda, karedat				
+kari, karja, karja				
+karistama, ?, ?				
+karp, karbi, karpi, ?, ?	krabice	n:		xHire
+kartul, kartuli, kartulit, kartulite, kartuleid	brambora	n:		xHire
+kartulipuder, ?, ?, ?, ?	bramborová kaše	n:		xHire
+karu, karu, karu, karude, karusid	medvěd	n:		xHire
+kas … või	buď … nebo			xHire
+kas?	-	pron:	tázací zájmeno uvozující ano/ne otázku	xHire
+kask, kase, kaske	bříza			xHire
+kass, kassi, kassi, kasside, kasse	kočka	n:		xHire
+kassa, kassa, kassat, ?, ?	pokladna	n:		xHire
+kast, ?, ?, ?, ?	box	n:		xHire
+kast, ?, ?, ?, ?	rámeček	n:		xHire
+kaste, ?, ?, ?, ?	rosa	n:		xHire
+kasulik, kasuliku, kasulikku, ?, ?	užitečný	adj:		xHire
+kasutama, ?, ?	používat	v:		xHire
+kasutama, kasutada, kasutan	použít	v:		xHire
+kasutama, kasutada, kasutan	používat	v:		xHire
+kasutatav, ?, ?, ?, ?		n:		
+kasvama, kasvada, kasvan	růst	v:		xHire
+kasvama, kasvada, kasvan	vyrůstat	v:		xHire
+kasvataja, kasvataja, kasvatajat				
+kasvatama, ?, ?	pěstovat	v:		xHire
+katastroof, ?, ?, ?, ?	katastrofa	n:		xHire
+katedraal, katedraali, katedraali				
+katk, katku, ?, ?, ?	mor	n:		xHire
+katki minema, katki minna, läheb katki	rozbít se	v:		xHire
+Katrin, ?, ?		ženské jméno		
+katsetama, ?, ?				
+katsuma, ?, ?				
+katus, katuse, ?, ?, ?	střecha	n:		xHire
+kaua	dlouho			xHire
+kaubamaja, kaubamaja, kaubamaja, [ILL] kaubamajja	obchodní dům	n:		xHire
+kaunim, ?, ?, ?, ?	hezčí	adj:		xHire
+kaunis, kauni, kaunist, kauniste, kauneid	hezký	adj:		xHire
+kaunvili, kaunvilja, kaunvilja, kaunviljade, kaunvilju		n:		
+kauplus, kaupluse, kauplust, ?, ?	obchod	n:	prodejna i směna	xHire
+kauss, kausi, kaussi				
+kavand, ?, ?				
+kavandama, ?, ?				
+keda?				
+keefir, keefiri, keefirit, ?, ?	kefír	n:		xHire
+keegi, kellegi, kedagi, ?, ?, [INN] kellski	někdo	pron:	končí-li pád na koncovku, je přípona -ki	xHire
+keel, keele, keelt, keelte, keeli, [ILL] keelde	jazyk	n:		xHire
+keeleteadus, ?, ?				
+keemia, ?, ?	chemie			xHire
+keemiline, ?, ?, ?, ?	chemický	adj:		xHire
+keerama, ?, ?	odbočit	v:		xHire
+keerama, ?, ?	otočit se	v:		xHire
+keetma, keeta, ?	vařit	v:		xHire
+kehaosa, kehaosa, ?, ?, ?	část těla	n:		xHire
+kehtetu, ?, ?, ?, ?	neplatný	adj:		xHire
+kelk, kelgu, kelku	sáně			xHire
+kell, kella, kella, kellade, ?	hodiny	n:		xHire
+kelle oma?	čí?			xHire
+kelle?	čí?			xHire
+kellega?	s kým?			xHire
+kellegiga	s někým	pron: [hov.]	správně kellegagi	xHire
+kelleks?	kým?			xHire
+kellele?	komu?			xHire
+kelner, kelneri, kelnerit				
+kena, kena, kena, ?, keni				
+Kenbera, ?, ?	Canberra			xHire
+keravälk, ?, ?, ?, ?	kulový blesk	n:		xHire
+kerge, kerge, kerget, ?, ?	lehký	adj:		xHire
+kergejõustik, kergejõustiku, kergejõustikku	atletika	n:		xHire
+kes?	kdo?			xHire
+Kesk-Euroopa, Kesk-Euroopa, Kesk-Euroopat	střední Evropa			xHire
+kesk, keske, ?	prostředek (něčeho)			xHire
+kesk, keske, ?	střed			xHire
+keskaeg, keskaja, keskaega, ?, ?	středověk	n:		xHire
+keskel	uprostřed	adp: +GEN		xHire
+keskkonnatehnoloogia, ?, ?				
+kesklinn, kesklinna, kesklinna, [ILL] kesklinna	centrum města			xHire
+keskpank, keskpanga, keskpanka, [ILL] keskpanka	centrální banka			xHire
+keskpäev, ?, ?	poledne	n:		xHire
+kestma, ?, ?		v:		
+kevad, kevade, kevadet	jaro	n:		xHire
+kiht, ?, ?				
+Kiiev, Kiievi, ?	Kyjev		hlavní město Ukrajiny	xHire
+kiire, ?, ?, ?, ?	rychlý	adj:		xHire
+kiire, ?, ?, ?, ?	spěch	n:	např. Mul on kiire. – Mám naspěch./Spěchám.	xHire
+kiirelt	rychle	adv:		xHire
+kiirem, ?, ?, ?, ?	rychlejší	adj:		xHire
+kiiresti	rychle	adv:		xHire
+kiirsupp, ?, ?, ?, ?		n:		
+kiirus, ?, ?	rychlost	n:		xHire
+kiirustav, ?, ?, ?, ?	kvapný	adj:		xHire
+kiirustav, ?, ?, ?, ?	rychlý	adj:		xHire
+kiisu, ?, ?				
+kiitma, ?, ?	pochválit	v:		xHire
+kiiver, ?, kiivrit	ochranná přilba			xHire
+kilomeeter, kilomeetri, kilomeetrit	kilometr			xHire
+kindel	možná			xHire
+kindel, kindla, ?, ?, ?	jistý	adj:		xHire
+kindlalt	jistě	adv:		xHire
+kindlasti	jistě	adv:		xHire
+kindlasti	určitě	adv:		xHire
+king, kinga, kinga, ?, kingasid	bota	n:		xHire
+king, kinga, kinga, ?, kingi	bota	n:		xHire
+kingasepp, ?, ?, ?, kingaseppi	švec	n:		xHire
+kingitus, ?, ?, ?, ?	dárek	n:		xHire
+kinkima, ?, ?	darovat	v:		xHire
+kinnas, kinda, kinnast, kinnaste, kindaid	rukavice	n:		xHire
+kinnine, kinnise, kinnist, kinniste, kinniseid				
+kinnine, kinnise, kinnist, kinniste, kinnisi				
+kinnitama, kinnitada, kinnitan ära		v:		
+kino, kino, kino, ?, ?, [ILL] kinno	kino	n:		xHire
+kino, kino, kino, ?, ?, [ILL] kinosse	kino	n:		xHire
+kiri, kirja, kirja, ?, kirju	dopis	n:		xHire
+kirik, kiriku, kirikut, kirikute, kirikuid	kostel	n:		xHire
+kirjalik, kirjaliku, kirjalikku				
+kirjandus, kirjanduse, kirjandust	literatura			xHire
+kirjanik, kirjaniku, kirjanikku, kirjanike, kirjanikke	spisovatel	n:		xHire
+kirjavahemärk, kirjavahemärgi, ?				
+kirjutama, kirjutada, kirjutan	psát	v: +PART		xHire
+kirre, ?, ?	severovýchod			xHire
+kirsipuu, kirsipuu, kirsipuud	třešeň	n:	strom	xHire
+kirss, kirsi, kirssi, ?, ?	třešeň	n:		xHire
+kitarr, kitarri, kitarri, ?, ?	kytara	n:		xHire
+kits, kitse, kitse, ?, ?				
+kitsas, kitsa, kitsast, ?, ?	úzký	adj:		xHire
+kivi, kivi, kivi, kivide, kive	kámen	n:		xHire
+klaas, klaasi, klaasi				
+klahv, klahvi, klahvi, klahvide, klahve	klávesa	n:	na klávesnici	xHire
+klass, klassi, klassi, klasside, klasse	třída	n:		xHire
+klassijuhataja, ?, ?, ?, ?				
+klaver, klaveri, klaverit, ?, ?	klavír	n:		xHire
+kleit, kleidi, kleiti, ?, ?	šaty	n:		xHire
+kliima, ?, ?, ?, ?	klima	n:		xHire
+kliima, ?, ?, ?, ?	podnebí	n:		xHire
+klimbisupp, ?, ?, ?, ?		n:		
+kloppima, kloppida, klopin	klepat	v:		xHire
+klubi, klubi, klubi, [ILL] klubisse	klub	n:		xHire
+klubi, klubi, klubi, [ILL] kluppi	klub	n:		xHire
+km	DPH			xHire
+kniks, kniksu, kniksu, kniksude, knikse	pukrle	n:		xHire
+koalitsioon, koalitsiooni, koalitsiooni, ?, ?	koalice	n:		xHire
+kobras, kopra, kobrast				
+koda, koja, koda				
+kodu, kodu, kodu, ?, ?, [ILL] koju	domov	n:		xHire
+koduhiir, ?, ?	myš domácí	n: [zoo.]		xHire
+kodulehekülg, kodulehekülje, kodulehekülge	domovská (webová) stránka			xHire
+koduloom, kodulooma, kodulooma, ?, ?	domácí zvíře	n:		xHire
+kodune, koduse, kodust				
+kodutu, kodutu, ?	bezdomovec			xHire
+kodutöö, kodutöö, kodutööd, ?, ?	domácí úkol	n:		xHire
+koer, koera, koera, koerte, koeri	pes	n:		xHire
+kogemus, ?, ?, ?, ?	zkušenost	n:		xHire
+kogu, ?, ?, ?, ?	celý	adj:		xHire
+koguma, koguda, kogun	sbírat	v: +PART	např. známky	xHire
+kogumik, kogumiku, kogumikku, ?, ?	sborník	n:		xHire
+kogunema, ?, kogunen	sejít se	v:		xHire
+koha, koha, koha, ?, ?	místo	n:		xHire
+kohalik, kohaliku, kohalikku, ?, ?	místní	adj:		xHire
+kohe	hned	adv:		xHire
+kohe	hned teď	adv:		xHire
+kohe	okamžitě	adv:		xHire
+kohe	zrovna teď	adv:		xHire
+kohkunult	vystrašeně	adv:		xHire
+koht, koha, kohta, ?, kohti	místo	n:		xHire
+kohtuma, kohtuda, kohtun	potkat se	v:		xHire
+kohupiim, ?, ?, ?, ?	tvaroh	n:		xHire
+kohutama, ?, ?				
+kohv, kohvi, kohvi, ?, ?	káva	n:		xHire
+kohver, ?, kohvrit, ?, kohvreid	kufr	n:		xHire
+kohvik, kohviku, kohvikut, kohvikute, kohvikuid	kavárna	n:		xHire
+kohvila, ?, ?, ?, ?	kavárna			xHire
+koi, koi, koid, ?, koisid	mol	n:		xHire
+koib, koiva, koiba				
+Koidu, ?, ?		ženské jméno		
+kokk, koka, kokka	kuchař			xHire
+kokku	celkem	adv:	součet	xHire
+kokku	dohromady	adv:	součet	xHire
+kokteil, ?, ?	koktejl	n:		xHire
+kole, ?, ?, ?, ?	ošklivý	adj:		xHire
+kole, ?, ?, ?, ?	škaredý	adj:		xHire
+koletis, koletise, koletist, koletiste, koletisi	příšera	n:		xHire
+koli, ?, ?				
+kollane, kollase, kollast	žlutý			xHire
+kolledž, kolledži, kolledžit				
+kolleeg, kollegi, kolleegi, ?, ?	kolega	n:		xHire
+kollektsionäär, kollektsionääri, kollektsionääri, ?, ?				
+kolm, kolme, ?	tři	num:		xHire
+kolmapäev, kolmapäeva, kolmapäeva	středa			xHire
+kolmkümmend, ?, ?	třicet	num:		xHire
+kolmsada, ?, ?	tři sta	num:		xHire
+kolmteist, ?, ?	třináct	num:		xHire
+kolmveerand	tři čtvrtě			xHire
+koma, ?, ?, ?, ?	čárka	n:		xHire
+komitatiiv, ?, ?, ?, ?	komitativ	n: [lingv.]	z latiny	xHire
+komm, kommi, kommi, ?, ?	bonbón	n:		xHire
+komme, kombe, kommet				
+kommunikatsioon, ?, ?				
+kompleksarv, kompleksarvu, ?, ?, ?	komplexní číslo	n: [mat.]		xHire
+kondensaator, ?, kondensaatorit, ?, ?	kondenzátor	n: [el.]		xHire
+kongress, kongressi, ?	kongres			xHire
+konn, konna, konna, ?, ?	žába	n:		xHire
+konsistents, konsistentsi, konsistentsi, konsistentside, konsistentse	konzistence	n:		xHire
+konstant, konstandi, ?, ?, ?	konstanta	n: [mat.] [it.]		xHire
+kontakt, ?, ?	kontakt	n:		xHire
+konto, ?, ?	účet			xHire
+kontonumber, kontonumbri, kontonumbrit	číslo účtu		bankovního	xHire
+kontor, kontori, kontorit, ?, ?	kancelář	n:		xHire
+kontsert, kontserdi, ?, ?, ?	koncert	n:		xHire
+konverents, konverentsi, konverentsi, konverentside, konverentse	konference	n:		xHire
+koobas, koopa, koobast, ?, ?	jeskyně			xHire
+kood, ?, ?, ?, ?	kód	n:		xHire
+kook, koogi, kooki, kookide, kooke	koláč	n:		xHire
+kool, kooli, kooli, ?, ?, [ILL] kooli	škola	n:		xHire
+koolilaps, koolilapse, koolilast, koolilaste, ?	školák	adj:		xHire
+koolitus, koolituse, koolitust, koolituste, koolitusi				
+koolitöö, koolitöö, koolitööd, ?, ?	úkol do školy	n:		xHire
+koomiks, koomiksi, koomiksit, koomiksite, koomikseid	komiks	n:		xHire
+koondama, ?, ?				
+koor, ?, ?	borka	[bot.]		xHire
+koor, ?, ?	kůra	[bot.]		xHire
+koos	s	prep: +KOM		xHire
+koosnema, koosneda, koosneb		v:		
+Kopenhaagen, ?, ?	Kodaň		hlavní město Dánska	xHire
+kord, korra, korda, ?, ?	krát			xHire
+kord, korra, korda, ?, ?	pořádek	n:		xHire
+kordamine, kordamise, kordamist, ?, ?	opakování	n:		xHire
+kordamööda	popořadě	adv:		xHire
+kordnik, kordniku, kordnikku	pochůzkář	n:	nejnižší hodnost u policie	xHire
+koristaja, koristaja, koristajat, ?, ?		n:		
+koristama, koristada, ?	uklízet	v:		xHire
+korraga	náhle	adv:		xHire
+korraga	najednou	adv:		xHire
+korralik, korraliku, korralikku				
+korras olema, korras olla, olen korras	být v pořádku	v:		xHire
+korrus, korruse, korrust, ?, korruseid	patro	n:		xHire
+korruseline, ?, ?, ?, ?	patrový	adj:		xHire
+korrutamine, ?, ?, ?, ?	násobení	n: [mat.]		xHire
+korter, korteri, korterit, korterite, ?	byt	n:		xHire
+korvpall, korvpalli, korvpalli	košíková	n:		xHire
+kott, koti, kotti, ?, kotte [ILL] kotti	taška	n:		xHire
+kraad, kraadi, kraadi, ?, ?	stupeň	n:		xHire
+kraadiklaas, kraadiklaasi, kraadiklaasi, ?, ?	teploměr	n:		xHire
+kraam, ?, ?, ?, ?		n:		
+kraav, kraavi, kraavi				
+krabin, ?, ?, ?, ?	praskání	n:		xHire
+krabisema, ?, ?		v:		
+krabistama, ?, ?		v:		
+kreeka, ?, ?	řecký			xHire
+Kreeka, Kreeka, ?	Řecko			xHire
+kriit, kriidi, kriiti				
+kringel, kringli, kringlit				
+Kristi, Kristi, ?		ženské jméno		
+Kristiina, ?, ?		ženské jméno		
+kromosoom, ?, kromosoomist, ?, ?	chromozóm	n: [bio.]		xHire
+kroon, krooni, krooni, ?, ?	koruna	n:		xHire
+krüptoon, ?, ?	krypton	n: [chem.]		xHire
+krüptoraha, ?, ?	kryptoměna			xHire
+krüptovaluuta, ?, ?	kryptoměna			xHire
+krüsanteem, krüsanteemi, krüsanteemi, ?, ?				
+ksenoon, ?, ?	xenon	n: [chem.]		xHire
+ksülofon, ksülofoni, ksülofoni, ?, ?		n:		
+kude, ?, ?				
+kuhu?	kam?			xHire
+kui	když			xHire
+kui	než	prep:	porovnávání	xHire
+kui	pokud			xHire
+kui kaua?	jak dlouho?			xHire
+kui palju?	jak moc?			xHire
+kui palju?	kolik?			xHire
+kui?	jak?			xHire
+kuid	ale			xHire
+kuidagi		adv:		
+kuidagi	nějak	adv:		xHire
+kuidas?	jak?			xHire
+kuiv, kuiva, kuiva, ?, ?	suchý	adj:		xHire
+kuivvili, kuivvilja, kuivvilja, kuivviljade, kuivvilju		n: [bot.]		
+kukk, kuke, kukke				
+kukkuma, kukkuda, kukun		v:		
+kukkuma, kukkuda, kukun	spadnout	v:		xHire
+kukulind, ?, ?, ?, ?	kukačka	n: [zoo.]		xHire
+kuld, kulla, kulda, ?, ?	zlato	n:		xHire
+kulp, kulbi, kulpi				
+kultivar, ?, ?	kultivar	[bot.]		xHire
+kultuuriteadus, kultuuriteaduse, ?				
+kultuuriteooria, ?, ?				
+kulukas, ?, ?		adj:		
+kumb, kumma, kumba				
+kumm, kummi, kummi				
+kuni	až	prep:	např. 9–13	xHire
+kuningas, ?, ?	král	n:	také v šachu; K	xHire
+kurb, ?, ?				
+kurg, kure, kurge				
+kuri, kurja, kurja, ?, kurjasid	zlý	adj:		xHire
+kuri, kurja, kurja, ?, kurje	zlý	adj:		xHire
+kurjalt	zle	adv:		xHire
+kurjasti	zle	adv:		xHire
+kurjem, ?, ?, ?, ?	horší	adj:	druhý stupeň od „zlý“	xHire
+kurk, kurgi, kurki, ?, kurke	okurka	n:		xHire
+kurvalt	smutně	adv:		xHire
+kus?	kde?			xHire
+kust?	odkud?			xHire
+kutsuma, kutsuda, kutsun	stoupnout si	v:		xHire
+Kuu, Kuu, Kuud	Měsíc	n: [astr.]		xHire
+kuu, kuu, kuud, kuude, kuid	měsíc	n:		xHire
+kuub, kuue, kuube				
+kuulama, kuulata, kuulan	poslouchat	v: +PART		xHire
+kuulma, kuulda, kuulen	slyšet	v: +PART		xHire
+kuulmiseni	na slyšenou			xHire
+kuuluma, kuuluda, kuulun	patřit	v:		xHire
+kuulus, kuulsa, kuulsat	slavný	adj:		xHire
+kuulus, kuulsa, kuulsat	známý	adj:		xHire
+kuulutus, kuulutuse, kuulutust, ?, ?	oznámení	n:		xHire
+kuum, ?, kuuma, ?, ?	horký	adj:		xHire
+kuumus, ?, ?, ?, ?	horko			xHire
+kuus	měsíčně			xHire
+kuus	za měsíc		např. 1 €/kuus	xHire
+kuus, kuue, kuut	šest	num:		xHire
+kuusk, kuuse, kuuske, ?, ?	bříza	n:		xHire
+kuuskümmend, ?, ?	šedesát	num:		xHire
+kuussada, ?, ?	šest set	num:		xHire
+kuusteist, ?, ?	šestnáct	num:		xHire
+kvaliteet, ?, ?	kvalita	n:		xHire
+kõhn, kõhna, kõhna, ?, ?	vychrtlý	adj:		xHire
+kõht, kõhu, kõhtu	břicho	n:		xHire
+kõige				
+kõigepealt		adv:		
+kõik teised	všichni ostatní			xHire
+kõik, kõige, kõike	všechno			xHire
+kõlar, kõlari, kõlarit				
+kõlblik, ?, ?				
+kõndima, kõndida, kõnnin jít	v:			xHire
+kõndima, kõndida, kõnnin procházet	v:			xHire
+kõne, ?, ?				
+kõnelema, kõnelda, kõnelen		v:		
+kõnelema, kõneleda, kõnelen		v:		
+kõrge, kõrge, kõrget, ?, kõrgeid	vysoký	adj:		xHire
+kõri, kõri, kõri				
+kõrsvili, kõrsvilja, kõrsvilja, kõrsviljade, kõrsvilju		n:		
+kõrts, kõrtsi, ?, ?, ?	hospoda	n:		xHire
+kõrv, kõrva, kõrva	ucho	n:		xHire
+kõrval	vedle	adp: +GEN	místo	xHire
+kõrvale	vedle	adp: +GEN	směr	xHire
+kõrvalprodukt, ?, ?	vedlejší produkt			xHire
+kõrvalt	od vedle	adp: +GEN	směr – od vedle něčeho	xHire
+kõrvits, kõrvitsa, ?, ?, ?	dýně	n:		xHire
+kõrvu kikitama, ?, ?	nastražit uši	v:		xHire
+kõva, ?, ?				
+kõõluma, ?, ?				
+käekell, ?, ?, ?, ?	hodinky	n:		xHire
+kägu, käo, kägu, ?, ?				
+käibemaks, ?, ?	daň z přidané hodnoty			xHire
+käibemaks, ?, ?	DPH			xHire
+käik, ?, ?	vycházka	n:		xHire
+käima, käia, käin	chodit	v:		xHire
+käima, käia, käin	jít	v:		xHire
+Kärt, ?, ?		? jméno		
+käru, ?, ?				
+käsi, käe, kätt, käte, käsi, [ILL] kätte	ruka	n:		xHire
+käsitöö, käsitöö, käsitööd	ruční práce	n:		xHire
+kääbusplaneet, kääbusplaneedi, ?				
+käänama, käänata, käänana	skloňovat	v: [lingv.]		xHire
+kääne, ?, ?	pád	n: [lingv.]		xHire
+käärid, ?, ?				
+käärima, ?, ?				
+köetud, ?, ?				
+köha, köha, köha				
+köhima, ?, ?				
+könn, ?, ?				
+kööginurk, ?, ?, ?, ?	kuchyňský kout	n:		xHire
+köögivili, ?, ?				
+köögivili, köögivilja, köögivilja, köögiviljade, köögivilju		n:		
+köök, köögi, kööki, [ILL] kööki	kuchyň			xHire
+kübar, kübara, ?, ?, ?	klobouk	n:		xHire
+küla, küla, küla, ?, ?, [ILL] külla	vesnice	n:		xHire
+külas käima, külas käia, käin külas	chodit na návštěvu	v:		xHire
+külastama, ?, külastan		v:		
+külg, külje, külge, ?, ?	bok	n:		xHire
+külm, külma, külma, külmade, külmi	studený	adj:		xHire
+külmem, ?, ?, ?, ?	studenější	adj:		xHire
+külmkapp, külmkapi, külmkappi	lednička	n:		xHire
+kümme, kümne, kümmet	deset	num:		xHire
+küpsetama, ?, ?	péct	v:		xHire
+küpsis, küpsise, küpsist, küpsiste, küpsiseid	sušenka	n:		xHire
+küpsised	cookies	n: pl. [it.]		xHire
+küsima, küsida, küsin	ptát se	v: +PART		xHire
+küsima, küsida, küsin	zeptat se	v: +PART		xHire
+küsimus, küsimuse, küsimust	otázka	n:		xHire
+küsisõna, küsisõna, küsisõna, küsisõnade, küsisõnu	tázací slovo	n:	na začátku věty	xHire
+küsisõna, küsisõna, küsisõna, küsisõnade, küsisõnu	tázací zájmeno	n:		xHire
+kütma, ?, ?				
+küür, küüru, küüru	hrb	n:		xHire
+küüs, küüne, küünt				
+küüslauk, küüslaugu, küüslauku, ?, ?	česnek	n:		xHire
+laas, laane, laant				
+labidas, labida, labidat				
+laborihiir	laboratorní myš	n:		xHire
+laborirott	laboratorní potkan	n:		xHire
+ladin, ladina, ?, ?, ?	latinský	adj:		xHire
+ladina keel	latina	n:		xHire
+ladu, lao, ladu				
+laenutama, laenutada, ?		v:		
+laev, laeva, laeva, laevade, laevasid	loď	n:		xHire
+laev, laeva, laeva, laevade, laevu	loď	n:		xHire
+laguvili, laguvilja, laguvilja, laguviljade, laguvilju		n: [bot.]		
+lahendama, lahendada, lahendan	řešit	v:	např. matematický příklad	xHire
+laht, lahe, lahte				
+lahutamine, ?, ?, ?, ?	odčítání	n: [mat.]		xHire
+lai, laia, laia	široký	adj:		xHire
+laiem, ?, ?, ?, ?	širší	adj:		xHire
+Laine, ?, ?		? jméno		
+laisk, laisa, laiska, ?, ?	líný	adj:		xHire
+lakkuma, ?, ?	líznout	v:		xHire
+lalin, ?, ?				
+lammas, lamba, lammast, lammaste, lambaid	ovce	n:		xHire
+lamp, lambi, lampi, ?, lampe	lampa	n:		xHire
+lapp, lapi, lappi				
+laps, lapse, last, laste, lapsi	dítě	n:		xHire
+lapselik, ?, ?, ?, ?	dětinský	adj:		xHire
+lapsepõlv, lapsepõlve, lapsepõlve, ?, ?	dětství	n:		xHire
+lapsik, lapsiku, lapsikut, lapsikute, lapsikuid	dětský	adj:		xHire
+lasteaed, lasteaia, lasteaeda, ?, ?, [ILL] lasteaeda	školka	n:		xHire
+latiinid	latinové	n: pl.		xHire
+laualamp, ?, ?, ?, ?	stolní lampa	n:		xHire
+lauamäng, ?, ?, ?, ?	stolní hra	n:		xHire
+laud, laua, lauda, laudade, laudu	stůl	n:		xHire
+lauk, laugu, lauku	česnek	n:		xHire
+laul, laulu, laulu, laulude, laule	píseň	n:		xHire
+laulja, laulja, lauljat, lauljade, ?	zpěvačka	n:		xHire
+laulja, laulja, lauljat, lauljade, ?	zpěvák	n:		xHire
+laulma, laulda, laulan	zpívat	v: +PART		xHire
+laulmisõpetaja, laulmisõpetaja, laulmisõpetajat, ?, ?	učitel zpěvu	n:		xHire
+laulukoor, ?, ?, ?, ?, [ILL] laulukoori	pěvecký sbor	n:		xHire
+laupäev, laupäeva, laupäeva	sobota			xHire
+Laura, ?, ?	Laura	ženské jméno		xHire
+lausa	skoro			xHire
+leedlamp, leedlambi, leedlampi	LED žárovka			xHire
+Leedu, Leedu, ?, [ILL] Leetu	Litva			xHire
+leedu, leedu, leedu	litevský			xHire
+leedukas, leeduka, ?	Litevec			xHire
+leedukas, leeduka, ?	Litevka			xHire
+leedulane, leedulase, leedulast	Litevec		řidčeji	xHire
+leedulane, leedulase, leedulast	Litevka		řidčeji	xHire
+legendaarne, ?, ?, ?, ?	legendární	adj:		xHire
+lehekülg, lehekülje, lehekülge, ?, ?	strana	n:		xHire
+lehm, lehma, lehma, ?, lehmi	kráva	n:		xHire
+leht, lehe, lehte, lehtede, lehti	list	n:		xHire
+leib, leiva, leiba, leibade, leibu	chléb	n:		xHire
+leib, leiva, leiba, leibade, leibu	chleba	n:		xHire
+leidja, leidja, ?, ?, ?	nálezce	n:		xHire
+leidma, leida, leian	najít	v:		xHire
+leivavili, leivavilja, leivavilja, leivaviljade, leivavilju		n:		
+leksika, ?, ?				
+lemmik, ?, ?, ?, ?	oblíbený	adj:		xHire
+lendama, lennata, lendan	letět	v:		xHire
+lendur, lenduri, lenduri	letec	n:		xHire
+lendvili, lendvilja, lendvilja, lendviljade, lendvilju		n: [bot.]		
+lennujaam, lennujaama, ?, ?, ?	letiště	n:		xHire
+lennuk, lennuki, lennukit, lennukite, lennukeid	letadlo	n:		xHire
+lepe, leppe, lepet				
+libisema, ?, ?	ztéct	v:		xHire
+liblikas, liblika, liblikat, ?, liblikaid	motýl	n:		xHire
+lift, lifti, ?, ?, ?	výtah	n:		xHire
+ligi				
+ligi astuma, ?, ?	přisednout si	v:		xHire
+liha, liha, liha, lihade, lihasid	maso	n:		xHire
+lihasupp, ?, ?, ?, ?		n:		
+lihavõtted	Velikonoce			xHire
+lihtne, lihtsa, ?, ?, ?	jednoduchý	adj:		xHire
+liiga	moc	adv:		xHire
+liiga	příliš	adv:		xHire
+liiga tegema, liiga teha, teen liiga	mučit	v:		xHire
+liiga tegema, liiga teha, teen liiga	trápit	v:		xHire
+liiga tegema, liiga teha, teen liiga	trýznit	v:		xHire
+liiga, ?, ?, ?, ?	liga	n:		xHire
+liik, ?, ?	druh	n: [bio.]		xHire
+liiklus, liikluse, liiklust				
+liikuma, liikuda, liigun		v:		
+Liina, ?, ?		? jméno		
+Liisa, ?, ?	Líza	ženské jméno		xHire
+Liisi, ?, ?		? jméno		
+liitmine, ?, ?, ?, ?	sčítání	n: [mat.]		xHire
+liitvili, liitvilja, liitvilja, liitviljade, liitvilju		n: [bot.]		
+lill, lille, lille, ?, lilli	květina	n:		xHire
+lill, lille, lille, ?, lilli	kytka	n:		xHire
+Lilli, ?, ?		ženské jméno		
+limonaad, limonaadi, limonaadi, ?, ?	limonáda	n:		xHire
+lind, linnu, lindu, lindude, linde	pták	n:		xHire
+linn, linna, linna, linnade, linnu, [ILL] linna	město	n:		xHire
+linnaosa, linnaosa, ?, ?, ?	část města	n:		xHire
+Linnea, Linnea, ?		? jméno		
+linnutee	mléčná dráha	n: [přen.]	úkaz na obloze; doslova „stezka ptáků“	xHire
+lipp, lipu, lippu	dáma	n:	v šachu; L	xHire
+lips, ?, ?, ?, ?	kravata	n:		xHire
+lisavood, lisavoodi, ?	přistýlka			xHire
+Lissabon, ?, ?	Lisabon		hlavní město Portugalska	xHire
+liter, ?, ?, ?, ?	litr	n:		xHire
+litosfäär, ?, ?	litosféra			xHire
+litsents, ?, ?, ?, ?	licence	n:		xHire
+lk	str.	[zkr.]	{et lehekülg}	xHire
+lobiseja, lobiseja, lobisejat	kecal	n:		xHire
+lobiseja, lobiseja, lobisejat	žvanil	n:		xHire
+lobisema, ?, ?	plácat	v:		xHire
+lobisema, ?, ?	žvanit	v:		xHire
+loe, ?, ?	severozápad			xHire
+loetlema, loetleda, leotlen		v:		
+logo, ?, ?	logo			xHire
+lohakas, lohakase, lohakast				
+lohakus, lohakuse, lohakust				
+lohe, lohe, lohet, lohede, lohesid	drak	n:		xHire
+loll, ?, ?	blbý	adj:	ve smyslu hloupý	xHire
+lollim, ?, ?, ?, ?	hloupější	adj:		xHire
+London, ?, ?	Londýn		hlavní město Velké Británie	xHire
+lonksama, ?, ?		v:		
+loodus, looduse, loodust, ?, ?	příroda	n:		xHire
+looja, ?, ?				
+loom, looma, looma, loomade, loomi	zvíře	n:		xHire
+looma, luua, ?	vytvořit	v:		xHire
+loomulikult	přirozeně	adv:		xHire
+loomuline, loomulise, ?, ?, ?	přirozený	adj:		xHire
+lootma, loota, loodan	doufat			xHire
+loovus, ?, ?				
+loss, lossi, lossi, ?, losse, [ILL] lossi	zámek	n:	budova	xHire
+loterii, ?, ?				
+luba, loa, luba, ?, lubasid				
+luba, loa, luba, ?, lube				
+lubama, ?, luban	slíbit	v: +DA infinitiv		xHire
+Lucas, Lucase, ?	Lukáš	mužské jméno		xHire
+lugema, lugeda, loen	číst	v: +PART		xHire
+lugemik, lugemiku, lugemikku				
+lugu, loo, lugu, lugude, lugusid, [ILL] lukku	příběh	n:		xHire
+luik, luigu, luiku				
+Luksemburg, Luksemburgi, ?	Luxemburg			xHire
+luksuslik, ?, ?, ?, ?	luxusní	adj:		xHire
+lumemees, ?, ?, ?, ?	sněhulák	n:		xHire
+lumememm, ?, ?, ?, ?	sněhulák	n:		xHire
+lumi, lume, lund, lumede, lumesid [ILL] lumme	sníh	n:		xHire
+lusikas, lusika, lusikat				
+luu, luu, luud, luude, luid	kost	n:		xHire
+Luukas, ?, ?	Lukáš	mužské jméno		xHire
+Luule, ?, ?		? jméno		
+luuletaja, ?, ?, ?, ?		n:		
+luuletus, luuletuse, luuletust, ?, ?	báseň	n:		xHire
+luup, ?, ?				
+luuvili, luuvilja, luuvilja, luuviljade, luuvilju		n: [bot.]		
+lõbus, lõbusa, lõbusat				
+lõhn, ?, ?	vůně			xHire
+lõke, lõkke, lõket				
+lõng, ?, ?				
+lõpetama, ?, lõpetan	dokončit	v:		xHire
+lõpetama, ?, lõpetan	skončit	v:	něco	xHire
+lõplik, ?, ?, ?, ?	konečný	adj:		xHire
+lõpmatu, lõpmatu, lõpmatut				
+lõpp, lõpu, lõppu	konec			xHire
+lõppema, lõppeda, lõpen	končit	v:		xHire
+lõppema, lõppeda, lõpen	skončit	v:	?	xHire
+lõppema, lõppeda, lõppen	končit	v:		xHire
+lõppema, lõppeda, lõppen	skončit	v:	?	xHire
+lõuna, lõuna, ?	jih			xHire
+lõuna, lõuna, lõunat				
+läbi	přes	adp: +ELA		xHire
+läbi	přes	prep: +GEN		xHire
+läbi	skrz	adp: +ELA		xHire
+läbi	skrz	prep: +GEN		xHire
+lähedal	blízko	adp: +GEN		xHire
+lähedal	blízko	adv:		xHire
+lähemalt	dále	adv:	např. Čti dále. – Loe lähemalt.	xHire
+lämmastik, ?, ?	dusík	n: [chem.]		xHire
+lämmastikdioksiid, ?, ?	oxid dusičitý	[chem.]	NO₂	xHire
+läti, ?, ?	lotyšský			xHire
+Läti, Läti, ?, [ILL] Lätti	Lotyšsko			xHire
+lätlane, lätlase, lätlast	Lotyš			xHire
+lätlane, lätlase, lätlast	Lotyška			xHire
+Läänemeri, Läänemere, Läänemerd	Baltské moře			xHire
+läänerannik, lääneranniku, läänerannikut, läänerannikute, läänerannikuid	západní pobřeží	n:		xHire
+lääs, lääne, läänt	západ	n:		xHire
+lääts, läätse, ?, ?, ?	čočka	n:		xHire
+lööma, lüüa, ?	praštit	v:		xHire
+lööma, lüüa, ?	udeřit	v:		xHire
+lööma, lüüa, lööb		v:		
+lühem, ?, ?, ?, ?	kratší	adj:		xHire
+lükkama, ?, ?				
+lülivili, lülivilja, lülivilja, lüliviljade, lülivilju		n: [bot.]		
+lünk, lünga, lünka, lünkade, lünki, [ILL] lünka	mezera	n:		xHire
+Lüüli, ?, ?		ženské jméno		
+ma, mu, -	já	pron:		xHire
+maa, maa, maad, maade, maid	země	n:		xHire
+Maa, Maa, Maad, Maade, Maid	Země			xHire
+maa, maa, maad, maade, maid, [ILL] maha	vesnice	n:		xHire
+maa, maa, maad, maade, maid, [ILL] maha	zem (hlína)	n:		xHire
+maaler, maaleri, maalerit, ?, ?	malíř	n:		xHire
+maalima, maalida, maalin	malovat	v:		xHire
+Maarja, ?, ?		ženské jméno		
+maasikas, maasika, maasikat	jahoda	n:		xHire
+maastik, maastiku, maastikku, ?, ?	krajina	n:		xHire
+madal, ?, ?, ?, ?	nízký	adj:		xHire
+Madalmaad, ?, ?	Holandsko			xHire
+madalmaalane, madalmaalase, madalmaalast	Holanďan			xHire
+madalmaalane, madalmaalase, madalmaalast	Holanďanka			xHire
+Madis, Madise, Madist		mužské jméno		
+Madli, Madli, ?		ženské jméno		
+Madrid, ?, ?	Madrid		čte se [madri:d]; hlavní město Španělska	xHire
+madu, mao, madu				
+magama, magada, magan	spát	v:		xHire
+magistrikraad, magistrikraadi, magistrikraadi, ?, ?		v:		
+magistritöö, ?, ?	diplomová práce			xHire
+magus, magusa, ?, ?, ?	sladký	adj:		xHire
+magus, magusa, magusat, magusate, magusaid	sladký	adj:		xHire
+magusalt	sladce	adv:		xHire
+magusam, magusama, ?, ?, ?	sladší	adj:		xHire
+maha minema, maha minna, lähen maha	vystoupit	v:	z dopravního prostředku	xHire
+mahl, ?, mahla, ?, ?	džus	n:		xHire
+mahl, ?, mahla, ?, ?	šťáva	n:	nápoj	xHire
+mai, ?, ?	květen			xHire
+Mai, ?, ?		ženské jméno		
+Maie, ?, ?		? jméno		
+maik, ?, ?	chuť			xHire
+maitse, maitse, maitset				
+maitsetaim, maitsetaime, maitsetaime, ?, maitsetaimi	bylinka	n:		xHire
+maitsev, maitsva, maitsvat, maitsvate, maitsvaid	chutný	adj:		xHire
+maja, maja, maja, majade, maju, [ILL] majja	dům	n:		xHire
+majandusfoorum, ?, ?, ?, ?				
+majanduskeskkond, ?, ?				
+majandusteadus, ?, ?				
+majutus, majutuse, ?	ubytování	n:		xHire
+makaron, makaroni, makaroni, ?, ?	makarón	n:		xHire
+makaron, makaroni, makaroni, ?, ?	nudle	n:	těstovina	xHire
+Makedoonia, ?, ?	Makedonie			xHire
+maks, maksa, ?, ?, ?	játra	n:		xHire
+maksma, maksta, maksan	platit	v:		xHire
+male, male, malet	šachy	n:		xHire
+Malle, ?, ?		? jméno		
+mandariin, mandariini, mandariini				
+mantel, mantli, mantlit, ?, ?	kabát	n:		xHire
+maraton, maratoni, maratoni, ?, ?				
+mardipäev				
+Mare, ?, ?		ženské jméno		
+Margus, ?, ?		mužské jméno		
+Mari, ?, ?		ženské jméno		
+mari, marja, ?, ?, marju	bobule	n:		xHire
+Marju, ?, ?		ženské jméno		
+mark, margi, marki, ?, marku	známka	n:		xHire
+Mart, ?, ?		? jméno		
+Martina, ?, ?	Martina	ženské jméno		xHire
+masin, masina, masinat, masinate, masinaid				
+maskott, ?, ?, ?, ?	maskot	n:		xHire
+matemaatika, matemaatika, matemaatikat	matematika			xHire
+matemaatiline statistika				
+materjaal, ?, ?, ?, ?	materiál	n: [zast.]		xHire
+materjal, materjali, materjali, materjalide, materjale	materiál	n:		xHire
+materjaliteadus, ?, ?				
+Mati, ?, ?		? jméno		
+matt	mat	n:	v šachu	xHire
+matt, ?, ?	mat	n:		xHire
+me	náš	pron:		xHire
+me, me, -	my	pron:		xHire
+medal, medali, medalit, ?, medaleid	medaile	n:		xHire
+medikament, ?, ?, ?, ?	lék	n:		xHire
+meditsiiniteadus, meditsiiniteaduse, ?				
+meedia, ?, ?				
+meel, meele, meelt				
+meeldima, meeldida, meeldin	líbit se (+ ALL [komu] + DA infinitiv)			xHire
+meeldima, meeldida, meeldin	líbit se (+ ALL [komu] + NOM [kdo/co])			xHire
+meeldiv teiega tutvuda	rád vás poznávám	[fráz.]		xHire
+meeldiv tutvuda	těší mě	[fráz.]		xHire
+mees, mehe, meest, meeste, mehi	muž	n:		xHire
+meeter, meetri, meetrit	metr			xHire
+meetrine, ?, ?	metrový	adj:		xHire
+mehelik, ?, ?, ?, ?	mužný	adj:		xHire
+mehenimi, mehenime, mehenime, mehenimede, ?	mužské jméno	n:		xHire
+Mehhiko, Mehhiko, ?	Mexiko			xHire
+meie	náš		v písmu častější tvar; musí být následováno přivlastňovaným objektem nebo slovem {et oma}	xHire
+meie, meie, meid	my	pron:	oficiálnější tvar	xHire
+meile	nám	pron:		xHire
+menüü, ?, ?	jídelní lístek			xHire
+menüü, ?, ?	menu			xHire
+meri, mere, merd, merde, meresid, [ILL] merre	moře	n:		xHire
+mesi, mee, mett, mete, mesi	med	n:		xHire
+mesilane, ?, ?, ?, mesilaseid	včela	n:		xHire
+mesosfäär, ?, ?				
+mess, messi, messi	veletrh	n:		xHire
+metaan, ?, ?	metan	n: [chem.]		xHire
+metroo, ?, ?	metro	n:		xHire
+mets, metsa, metsa, metsade, ?, [ILL] metsa	les	n:		xHire
+metsatööstus, ?, ?, ?, ?		n:		
+mida?				
+Mihkel, ?, ?	Michal	mužské jméno		xHire
+miinus, ?, ?	minus			xHire
+miks?	proč?			xHire
+miljon, ?, miljoni	milión	num:		xHire
+mille?	čeho?	GENitiviní otázka		xHire
+millega?	čím?			xHire
+millega?	s čím?			xHire
+milleks?	čím?			xHire
+millel	s			xHire
+millimeeter, millimeetri, millimeetrit	milimetr			xHire
+milline?	jaký?			xHire
+mina, minu, mind	já	pron:	oficiálnější tvar	xHire
+minema, minna, lähen	jít	v: +MA infinitiv		xHire
+mineraalvesi, mineraalvee, mineraalvett, ?, ?	minerální voda	n:		xHire
+minevik, mineviku, minevikku				
+Minni, ?, ?		? jméno		
+minu	můj	pron:	v písmu častější tvar; musí být následováno přivlastňovaným objektem nebo slovem {et oma}	xHire
+minule	mně	pron:		xHire
+minut, minuti, minutit, ?, ?	minuta	n:		xHire
+mis?	co?			xHire
+miski, millegi, midagi, ?, ?	něco	pron:		xHire
+missugune?	jaký?			xHire
+missugune?	který?			xHire
+mitmes?	kolikátý?			xHire
+mitokonder, mitokondri, mitokondrit, mitokondrite, mitokondreid	mitochondrie	n: [bio.]		xHire
+mitokondriaalne, ?, ?, ?, ?	mitochondriální	adj: [bio.]		xHire
+mitte kunagi	nikdy	adv:		xHire
+mitte midagi	nic			xHire
+mittenegatiivne, mittenegatiivse, ?, ?, ?	nezáporný	adj: [mat.]		xHire
+mittesugukromosoom, ?, ?				
+mitu korda	několikrát			xHire
+mitu?	kolik?			xHire
+mobiil, mobiili, mobiili, ?, ?	mobil	n: [hov.]		xHire
+mobiiltelefon, mobiiltelefoni, mobiiltelefoni	mobilní telefon	n:		xHire
+mobla, ?, ?, ?, ?	mobil	n: [hov.]		xHire
+modell, modelli, modelli, ?, ?	modelka	n:		xHire
+moekunstnik, moekunstniku, moekunstnikku	módní návrhář			xHire
+Moldova, ?, ?				
+molekulaarbioloogia, ?, ?				
+molekulaartehnoloogia, ?, ?				
+montaažiplaat, ?, ?, ?, ?		n:		
+mood, moe, moodi	móda			xHire
+moodustama, ?, ?				
+mootor, mootori, mootorit				
+mootorratas, mootorratta, mootorratast	motorka	n:		xHire
+Moraavia, ?, ?	Morava			xHire
+morfoloogia, ?, ?	morfologie	n:		xHire
+morss, morsi, morssi				
+Moskva, ?, ?	Moskva		hlavní město Ruska	xHire
+motiveerima, motiveerida, motiveerin	motivovat	v:		xHire
+mudel, mudli, mudlit				
+mugav, mugava, mugavat				
+mugulvili, mugulvilja, mugulvilja, mugulviljade, mugulvilju		n:		
+muhk, muhu, muhku				
+muidu	jinak	conj:		xHire
+muidu	v opačném případě	conj:		xHire
+muidugi	samozřejmě			xHire
+muigama, muiata, muigan		v:		
+muld, mulla, mulda, ?, ?		n:		
+mulje, mulje, muljet				
+mulle	mně	pron:		xHire
+mulnasjutt, ?, ?, ?, ?	pohádka	n:		xHire
+Muna on targem kui kana.	Dítě je chytřejší než rodič.	[fráz.]		xHire
+Muna on targem kui kana.	Žák je chytřejší než učitel.	[fráz.]		xHire
+muna, muna, muna, munade, munasid	vejce	n:		xHire
+muna, muna, muna, munade, mune	vejce	n:		xHire
+murd, murru, murdu				
+murdvaras, ?, ?, ?, ?	lupič	n:		xHire
+murre, murde, murret				
+murulauk, ?, murulauku, ?, ?	pažitka	n:		xHire
+must, musta, musta, ?, ?	špinavý	adj:		xHire
+must, musta, musta, ?, musti	černý	adj:		xHire
+mustikas, ?, ?, ?, ?	borůvka	n:		xHire
+mustikasupp, ?, ?, ?, ?		n:		
+musträstas, ?, ?, ?, ?	kos	n: [zoo.]		xHire
+mustvalge, ?, ?, ?, ?	černobílý	adj:		xHire
+mutt, ?, ?, ?, mutte	krtek	n:		xHire
+muu, muu, muud				
+muuseum, muuseumi, muuseumi, [ILL] muuseumi	muzeum	n:		xHire
+muuseum, muuseumi, muuseumi, [ILL] muuseumisse	muzeum	n:		xHire
+muusika, muusika, muusikat	hudba	n:		xHire
+muusika, muusika, muusikat	muzika	n:		xHire
+muusikariist, ?, muusikariista	hudební nástroj	n:		xHire
+muutma, muuta, muudan	upravit	v:		xHire
+muutma, muuta, muudan	změnit	v:		xHire
+muutuja, ?, ?, ?, ?	proměnná	n: [mat.] [it.]		xHire
+mõdu, ?, ?				
+mõju, ?, ?, ?, ?	vliv	n:		xHire
+mõjuagent, ?, ?, ?, ?				
+mõjukas, ?, ?, ?, ?	ovlivňující	adj:		xHire
+mõjukas, ?, ?, ?, ?	vlivný	adj:		xHire
+mõned	několik	pl.		xHire
+mõni, mõne, mõnd			anglicky „some“	
+mõnus, mõnusa, mõnusat, ?, mõnusaid		adj:		
+mõru, ?, ?				
+mõte, mõtte, mõtet, mõtete, mõtteid	myšlenka	n:		xHire
+mõtlema, mõelda, mõtlen	myslet	v:		xHire
+mõtlema, mõtelda, mõtlen	myslet	v:		xHire
+mõõtma, mõõta, mõõdan	měřit	v:		xHire
+mäger, mägra, mäkra				
+mägi, mäe, mäge, mägede, mägesid	hora	n:		xHire
+mägi, mäe, mäge, mägede, mägesid	kopec	n:		xHire
+mäletama, ?, ?	pamatovat si	v:		xHire
+mälu, ?, ?, ?, ?	paměť	n:		xHire
+mänd, männi, mändi	borovice	n: [bot.]		xHire
+mängima, mängida, mängin	hrát	v: +PART	hru, na hudební nástroj, s hračkou, …	xHire
+märg, märja, märga, ?, ?	mokrý	adj:		xHire
+märjem, ?, ?, ?, ?	vlhčí	adj:		xHire
+märkmik, märkmiku, märkmikku				
+märts, ?, ?	březen			xHire
+mätas, mätta, mättast				
+määre, ?, ?				
+Määrimaa, Määrimaa, Määrimaad	Morava			xHire
+mööbel, mööbli, mööblit, ?, ?	nábytek	n:		xHire
+mööda	kolem	adp: +PART?ELA?		xHire
+möödas, ?, ?				
+möödunud	minulý	adj:		xHire
+möödunud	uplynulý	adj:		xHire
+mündivahetus, ?, ?				
+mürg, ?, ?, ?, ?	jed	n:		xHire
+müristama, ?, ?	hřmět	v:		xHire
+müts, mütsi, ?, ?, ?	čepice	n:		xHire
+müügil olema, müügil olla, on müügil	být v prodeji	v:		xHire
+müüja, müüja, ?, ?, ?	prodavač	n:		xHire
+müük, ?, ?, ?, ?	prodej	n:		xHire
+müüma, müüa, ?	prodávat	v:		xHire
+naaber, naabri, naabrit, naabrite, naabreid	soused	n:		xHire
+nad	oni			xHire
+nad	ony			xHire
+naerma, naerda, naeran	smát se	v:		xHire
+naerugaas, ?, ?	rajský plyn		N₂O	xHire
+nafta, ?, ?	ropa	n:		xHire
+naftagaas, ?, ?				
+nagu	jako	prep:		xHire
+nahk, naha, nahka, nahkade, nahku				
+naine, naise, naist, naiste, naiseid	žena	n:		xHire
+naisenimi, naisenime, naisenime	ženské jméno			xHire
+nali, nalja, nalja, ?, ?	vtip	n:		xHire
+nari, ?, ?				
+narrima, ?, ?				
+nastik, nastiku, nastikut				
+natuke	trochu	adv:		xHire
+naturaalarv, naturaalarvu, ?, ?, ?	přirozené číslo	n: [mat.]		xHire
+NB!		[zkr.]		
+need, nende, neid	ti	pron: pl.	možný zkrácený tvar dalších pádů: „nei + koncovka“	xHire
+need, nende, neid	tyto	pron: pl.	možný zkrácený tvar dalších pádů: „nei + koncovka“	xHire
+Neeme, ?, ?		? jméno		
+negatiivne, negatiivse, ?, ?, ?	negativní	adj:		xHire
+negatiivne, negatiivse, ?, ?, ?	záporný	adj:		xHire
+neile	jim	pron:		xHire
+neiu, ?, ?				
+neli, nelja, nelja	čtyři	num:		xHire
+nelikümmend, ?, ?	čtyřicet	num:		xHire
+nelisada, ?, ?	čtyři sta	num:		xHire
+neliteist, ?, ?	čtrnáct	num:		xHire
+neljäpäev, neljapäeva, neljapäeva	čtvrtek	n:		xHire
+nemad, nende, ?	oni	pron:	oficiálnější tvar	xHire
+nemad, nende, ?	ony	pron:	oficiálnější tvar	xHire
+nende	jejich	pron:	musí být následováno přivlastňovaným objektem nebo slovem {et oma}	xHire
+nendele	jim	pron:		xHire
+neoon, ?, ?	neon	n: [chem.]		xHire
+neuroteadus, neuroteaduse, ?	neurověda			xHire
+Nigeeria, Nigeeria, ?	Nigérie			xHire
+nii	tak	adv:		xHire
+niin				
+niiskus, ?, ?				
+nimetama, ?, nimetan	jmenovat			xHire
+nimetama, ?, nimetan	vyjmenovat			xHire
+nimetav, ?, ?	nominativ	n: [lingv.]	první pád	xHire
+nimi, nime, nime, nimede, ?	jméno	n:		xHire
+nina, nina, nina, ninade, ninu	nos	n:		xHire
+ning	ano	ptcl:	řídce	xHire
+nisu, ?, ?, ?, ?	pšenice	n:		xHire
+nohu, nohu, nohu				
+nokatsmüts, ?, ?, ?, ?	kšiltovka	n:		xHire
+nominaalne, ?, ?				
+nominatiiv, nominatiivi, ?	nominativ	n: [lingv.]	první pád; z latiny	xHire
+noogutama, ?, ?	pokývat	v:		xHire
+noor, noore, noort, noorte, noori	mladý	adj:		xHire
+noorem, ?, ?, ?, ?	mladší	adj:		xHire
+noorim, ?, ?, ?, ?	nejmladší	adj:		xHire
+noormees, noormehe, noormeest	mladík	n:		xHire
+noormees, noormehe, noormeest	mladý muž	n:		xHire
+normaalne, ?, ?, ?, ?	normální	adj:		xHire
+normaalselt	normálně	adv:		xHire
+norra, ?, ?	norský			xHire
+Norra, Norra, ?	Norsko			xHire
+norrakas, norraka, ?	Nor			xHire
+norrakas, norraka, ?	Norka			xHire
+norralane, norralase, norralast	Nor			xHire
+norralane, norralase, norralast	Norka			xHire
+november, novembri, ?	listopad			xHire
+nuga, noa, nuga, nugade, nugasid				
+nuga, noa, nuga, nugade, nuge				
+null, ?, ?	nula			xHire
+number, numbri, numbrit, ?, numbreid	číslo	n:		xHire
+nurk, nurga, nurka, ?, ?	roh	n:		xHire
+nutma, ?, nutan	brečet	v:		xHire
+nutma, nutta, nutan	brečet	v:		xHire
+nõbu, ?, ?, ?, ?	bratranec	n:		xHire
+nõbu, ?, ?, ?, ?	sestřenice	n:		xHire
+nõid, nõia, nõia, ?, ?	čaroděj	n:		xHire
+nõrk, ?, ?, ?, ?	slabý	adj:		xHire
+nõu andma, nõu anda, annan nõu	poradit	v:		xHire
+nõu, nõu, nõu, nõude, nõusid	rada	n:		xHire
+nõu, nõu, nõud, nõude, nõusid	rada	n:		xHire
+nõudepesumasin, nõudepesumasina, nõudepesumasinat, nõudepesumasinate, nõudepesumasinaid	myčka nádobí	n:		xHire
+Nõukogude Liit	Sovětský svaz			xHire
+nõus olema, nõus olla, olen nõus	souhlasit	v:		xHire
+nõus, ?, ?				
+nõustuma, ?, ?	souhlasit	v:		xHire
+nädal, nädala, nädalat, nädalate, nädalaid	týden	n:		xHire
+nädalavahetus, ?, ?, ?, ?	víkend	n:		xHire
+nägema, näha, näen	vidět	v: +PART		xHire
+nägemiseni	na shledanou			xHire
+nägemist	na shledanou			xHire
+nägu, näo, nägu, ?, nägusid	obličej	n:		xHire
+näide, näite, näidet, näidete, näiteid	příklad	n:		xHire
+näide, näite, näidet, näidete, näiteid	ukázka	n:		xHire
+näiteks	například			xHire
+näitleja, näitleja, näitleja, näitlejade, näitlejasid	herec	n:		xHire
+näitlejanna, näitlejanna, näitlejanna, näitlejannade, näitlejannasid	herečka	n:		xHire
+näitlema, näidelda, näitlen		v:		
+näljane, näljase, näljast, näljaste, näljaseid	hladový	adj:		xHire
+näriline, närilise, närilist, ?, ?	hlodavec	n:		xHire
+närv, närvi, närvi, närvide, närve	nerv	n:	v mn. čísle i přeneseně – např. mít na něco nervy	xHire
+närvistus, ?, ?, ?, ?		n:		
+näugema, ?, ?	mňoukat	v:		xHire
+nööp, nööbi, nööpi				
+nöör, nööre, nöört				
+nüüd	nyní	adv:		xHire
+nüüd	teď	adv:		xHire
+objekt, ?, ?	objekt			xHire
+oda, ?, ?	střelec	n:	v šachu; O	xHire
+odav, odava, odavat, odavate, odavaid	levný	adj:		xHire
+odavm, ?, ?, ?, ?	levnější	adj:		xHire
+ohkama, ?, ?	vzdychnout	v:		xHire
+ohtlik, ?, ?		adj:		
+ohutu, ohutu, ohutut, ohutute, ohutuid				
+oi	oj	interj:		xHire
+oja, ?, ?				
+oks, ?, ?				
+oktoober, oktoobri, ?	říjen			xHire
+ole!	buď!			xHire
+olema, olla, olen	být	v:		xHire
+olev, ?, ?, ?, ?	essiv	n: [lingv.]		xHire
+olevik, oleviku, olevikku				
+olge!	buďte!			xHire
+olgu!	budiž!	v:		xHire
+olgu!	dobrá!	v:		xHire
+olümpiaad, olümpiaadi, olümpiaadi, ?, ?	olympiáda	n:		xHire
+oma	(zástupná částice při přivlastňování)	např. See on minu oma. – To je moje.		xHire
+oma	vlastní			xHire
+omamaja, omamaja, omamaja				
+omastav, ?, ?	genitiv	n: [lingv.]		xHire
+onu, onu, onu, ?, onusid	strýc	n:		xHire
+ood, ?, ?, ?, ?	óda	n:		xHire
+ootama, oodata, ootan	čekat	v: +PART		xHire
+ootama, oodata, ootan	počkat	v:		xHire
+operaator, ?, ?, ?, ?	operátor	n:		xHire
+operatsioon, ?, ?, ?, ?	operace	n:		xHire
+oranž, ?, ?	pomeranč	n:		xHire
+oranž, oranži, ?	oranžový	adj:		xHire
+orav, orava, oravat, ?, oravaid	veverka	n:		xHire
+ordoviitsium	ordovik	[geol.]	období prvohor	xHire
+org, ?, ?				
+ori, ?, ?, ?, orje	otrok	n:		xHire
+originaal, ?, ?	originál			xHire
+orkester, ?, ?	orchestr			xHire
+osa, osa, ?	část	n:		xHire
+osa, osa, ?	podíl	n:	ve firmě	xHire
+osakond, osakonna, ?, ?, ?	oddělení	n:		xHire
+osastav, ?, ?	partitiv	n: [lingv.]		xHire
+osavõtja, osavõtja, osavõtjat, ?, ?	účastník	n:		xHire
+osaühing, ?, ?, ?, ?	společnost s ručením omezeným	n:		xHire
+oskama, osata, oskan	umět	v: +PART/DA infinitiv		xHire
+oskus, ?, ?, ?, ?	schopnost	n:		xHire
+oskus, ?, ?, ?, ?	znalost	n:		xHire
+Oslo, ?, ?	Oslo		hlavní město Norska	xHire
+osoon, ?, ?	ozón	n: [chem.]		xHire
+ostja, ?, ?, ?, ?	kupující	n:		xHire
+ostja, ?, ?, ?, ?	zákazník	n:		xHire
+ostma, osta, ostan	koupit	v: +PART		xHire
+ostma, osta, ostan	kupovat	v: +PART		xHire
+otsas olema, otsas olla, olen otsas	být pryč	v:		xHire
+otsima, otsida, otsin	hledat	v: +PART +ELA/ABL		xHire
+otsustama, otsustada, otsustan	rozhodnout se	v:		xHire
+OÜ	s. r. o.	n: [zkr.]	osaühing	xHire
+paber, paberi, paberit, ?, ?	papír	n:		xHire
+pada, paja, pada				
+padi, padja, patja, ?, patju	polštář	n:		xHire
+pagar, pagari, pagarit				
+paha, paha, paha, ?, ?	škaredý	adj:		xHire
+paha, paha, paha, ?, ?	špatný	adj:		xHire
+pahur, ?, ?				
+paik, ?, ?	místo			xHire
+paiknema, paikneda, paiknen		v:		
+paistma, paista, paistan	svítit	v:		xHire
+pakisupp, ?, ?, ?, ?		n:		
+pakk, paki, pakki, ?, ?	balení	n:		xHire
+pakkuma, pakkuda, pakun	nabízet	v:		xHire
+paks, paksu, paksu, ?, pakse	tlustý	adj:		xHire
+paksem, ?, ?, ?, ?	tlustší	adj:		xHire
+palav, ?, ?, ?, ?	horko	n:		xHire
+palavik, palaviku, palavikku, ?, ?	horečka	n:		xHire
+palju	hodně	adv: +PART PL		xHire
+palk, palga, palka, ?, ?	mzda	n:		xHire
+palk, palga, palka, ?, ?	plat	n:		xHire
+pall, palli, palli, pallide, ?	míč	n:		xHire
+paluma, paluda, palun	prosit	v:		xHire
+paneelmaja, ?, ?, ?, ?	panelový dům	n:		xHire
+panema, panna, panen	položit	v:		xHire
+pank, panga, panka, [ILL] panka	banka	n:		xHire
+pann, panni, panni, ?, ?	pánev	n:		xHire
+papagoi, ?, ?, ?, ?		n:		
+paprika, paprika, paprikat	paprika	n:		xHire
+paradiis, ?, ?, ?, ?	ráj	n:		xHire
+paras	akorát	adv:	např. See mantel on mulle paras. – Ten kabát mi je akorát.	xHire
+parem, parema, ?, ?, ?	lepší	adj:		xHire
+parem, parema, paremat	pravý	adj:		xHire
+Pariis, ?, ?	Paříž		hlavní město Francie	xHire
+parim, ?, ?, ?, ?	nejlepší	adj:		xHire
+parim, parima, ?	nejlepší			xHire
+park, pargi, parki, parkide, parke, [ILL] parki	park	n:		xHire
+parkla, parkla, parklat				
+parm, ?, ?				
+part, ?, ?	kačer	n:		xHire
+part, ?, ?	kachna	n:		xHire
+partei, ?, ?				
+passima, ?, ?				
+pastakas, pastaka, pastakat, ?, ?	pero	n:		xHire
+pastapliiats, pastapliiatsi, pastapliiatsit, ?, ?	propiska	n:		xHire
+pastapliiats, pastapliiatsi, pastapliiatsit, ?, ?	propisovací tužka	n:		xHire
+pataljon, ?, ?	prapor	n: [voj.]	útvar	xHire
+patarei, ?, ?				
+patoloogia, ?, ?	patologie	n:		xHire
+pea, pea, pead, peade, päid, [ILL] pähe	hlava	n:	např. Zkus si ten klobouk na hlavu. – Proovi selle kübara pähe.; např. Mám na hlavě čepici. – Mul on peas müts.	xHire
+peaaegu	skoro			xHire
+peaaegu	téměř			xHire
+peal	na	adp: +GEN	místo	xHire
+peale	na	adp: +GEN	směr	xHire
+peale ...	kromě ... (GEN)			xHire
+peale ...	vedle ... (GEN)			xHire
+pealinn, pealinna, pealinna, pealinnade, ?, [ILL] pealinna	hlavní město	n:		xHire
+pealt	s	adp: +GEN	směr „s něčeho“	xHire
+peatama, ?, ?	zastavit	v:	něco, někoho	xHire
+peatuma, ?, peatun	stavět	v:	na zastávce	xHire
+peatuma, ?, peatun	zastavit se	v:		xHire
+peatus, ?, ?, ?, peatuseid	zastávka	n:		xHire
+peatus, ?, ?, ?, peatusi	zastávka	n:		xHire
+pedosfäär, ?, ?	pedosféra			xHire
+peegel, peegli, peeglit, ?, ?	zrcadlo	n:		xHire
+Peeter, ?, ?	Petr	mužské jméno		xHire
+Peipsijärv, Peipsijärve, Peipsijärve, ?, ?	Čudské jezero	n: [jmén.] [zem.]		xHire
+Pekka, ?, ?		mužské jméno		
+peksa andma, peksa anda, annan peksa	dát výprask	v:		xHire
+peksa andma, peksa anda, annan peksa	nabít	v:		xHire
+peksa andma, peksa anda, annan peksa	namlátit	v:		xHire
+peksa andma, peksa anda, annan peksa	napráskat	v:		xHire
+peletama, ?, ?	odehnat	v:		xHire
+pension, pensioni, pensioni, ?, ?				
+pensionär, pensionäri, pensionäri	důchodce			xHire
+pere, pere, peret, perede, peresid	rodina	n:		xHire
+perekond, ?, ?	rod	n: [bio.]		xHire
+perekonnanimi, perekonnanime, perekonnanime, ?, ?	příjmení	n:		xHire
+periood, perioodi, ?, ?, ?	období	n:		xHire
+periood, perioodi, ?, ?, ?	perioda	n:		xHire
+personaal, ?, ?	osobní	adj:		xHire
+pesa, pesa, pesa, ?, ?	hnízdo	n:		xHire
+pesema, pesta, pesen	čistit	v:	zuby	xHire
+pesema, pesta, pesen	prát	v:		xHire
+petrool, ?, ?	petrolej	n:		xHire
+petrooleum, petrooleumi, ?	petrolej	n:		xHire
+petrooleumilamp, petrooleumilambi, petrooleumilampi	petrolejová lampa	n:		xHire
+pidama, pidada, pean	chovat	v: +PART	zvíře	xHire
+pidama, pidada, pean	muset	v: +MA infinitiv		xHire
+pidev, ?, ?, ?, ?	nepřetržitý	adj:		xHire
+pidu, peo, pidu	oslava	n:		xHire
+pidupäev, pidupäeva, pidupäeva	svátek			xHire
+pihk, pihu, pihku				
+piiluma, ?, ?		v:		
+piim, piima, piima, ?, ?	mléko	n:		xHire
+piimasupp, ?, ?, ?, ?		n:		
+piir, ?, ?, ?, ?	hranice	n:		xHire
+piisama, piisata, piisan	dostačovat	v:		xHire
+piisama, piisata, piisan	stačit	v:		xHire
+pikajuukseline, ?, ?, ?, ?	dlouhovlasý	adj:		xHire
+pikalt	dlouze	adv:		xHire
+pikem, ?, ?, ?, ?	delší	adj:		xHire
+pikk, pika, pikka, ?, pikkasid	dlouhý	adj:		xHire
+pikk, pika, pikka, ?, pikki	dlouhý	adj:		xHire
+piksel, piksli, pikslit, pikslite, piksleid	pixel	n:		xHire
+pilduma, ?, pillun		v:		
+pilet, pileti, piletit, ?, ?	jízdenka	n:		xHire
+pilet, pileti, piletit, ?, ?	lístek	n:		xHire
+pilet, pileti, piletit, ?, ?	vstupenka	n:		xHire
+Pill, Pille, ?		? jméno		
+Pille, Pille, ?		? jméno		
+pilt, pildi, pilti, piltide, pilte	obraz	n:		xHire
+pilt, pildi, pilti, piltide, pilte	obrázek	n:		xHire
+pilu, ?, ?				
+pilv, pilve, pilve, pilvede, pilvi	mrak	n:		xHire
+pime, pimeda, ?, ?, ?	tmavý	adj:		xHire
+pimedus, ?, ?	tma	n:		xHire
+pind, ?, ?, ?, ?	plocha	n:		xHire
+pindala, ?, ?, ?, ?	rozloha	n:		xHire
+pinge, ?, ?, ?, ?	napětí	n: [el.]		xHire
+pink, pingi, pinki, pinkide, pinke	lavice	n:	školní	xHire
+pintsak, ?, ?, ?, ?	sako	n:		xHire
+pipar, ?, ?, ?, ?	pepř	n:		xHire
+Piret, ?, ?		ženské jméno		
+pirn, pirni, pirni, ?, ?	hruška	n:		xHire
+pirnipuu, pirnipuu, pirnipuud, ?, ?	hrušeň	n:		xHire
+pisike, ?, ?, ?, ?	maličký	adj:		xHire
+pisikene, ?, ?, ?, ?	maličký	adj:		xHire
+planeet, planeedi, ?	planeta	n: [ast.]		xHire
+plats, platsi, platsi, ?, platse	náměstí	n:		xHire
+platvorm, platvormi, ?, ?, ?	platforma	n:		xHire
+pleistotseen	pleistocén	[geol.]	starší čtvrtohory	xHire
+plekk, pleki, plekki, plekkide, plekke	flek	n:		xHire
+plekk, pleki, plekki, plekkide, plekke	skvrna	n:		xHire
+pliiats, pliiatsi, pliiatsit, pliiatsite, pliiatseid	tužka	n:		xHire
+pliit, pliidi, pliiti				
+ploom, ploomi, ploomi, ?, ?	švestka	n:		xHire
+ploomipuu, ?, ?, ?, ?	švestka	n:	strom	xHire
+pluss, ?, ?	plus			xHire
+Pluuto, Pluuto, Pluutot	Pluto	n: [ast.]	trpasličí planeta	xHire
+poeg, poja, poega, ?, ?	chlapec	n:		xHire
+poeg, poja, poega, ?, ?	syn	n:		xHire
+pohl, ?, ?, ?, ?	brusinka	n:		xHire
+poiss, poisi, poissi, poiste, poisse	chlapec	n:		xHire
+poiss, poisi, poissi, poiste, poisse	kluk	n:		xHire
+pole	není	v: [hovor.] [zkr.]	= ei ole	xHire
+polikliinik, polikliiniku, polikliinikut, ?, ?		n:		
+politoloogia, ?, ?	politologie			xHire
+politsei, politsei, politseid, ?, ?		n:		
+politseinik, politseiniku, politseinikku, ?, politseinikke	policista	n:		xHire
+polnud	nebyl	v: [hovor.] [zkr.]	= ei olnud	xHire
+pomm, pommi, pommi	bomba			xHire
+pood, poe, poodi, poodide, poode, [ILL] poodi	obchod	n:		xHire
+pool	půl			xHire
+poola, ?, ?	polský			xHire
+Poola, Poola, ?	Polsko			xHire
+poolakas, poolaka, ?	Polák			xHire
+poolakas, poolaka, ?	Polka			xHire
+porgand, porgandi, porgandit, porgandite, porgandeid	mrkev	n:		xHire
+pori, ?, ?, ?, ?				
+portaal, ?, ?	portál			xHire
+Portugal, ?, ?	Portugalsko			xHire
+portugali, ?, ?	portugalský			xHire
+positiivne, positiivse, ?, ?, ?	kladný	adj:		xHire
+positiivne, positiivse, ?, ?, ?	pozitivní	adj:		xHire
+postiljon, ?, ?, ?, ?		n:		
+postkontor, postkontori, postkontorit, ?, ?	pošta	n:	pobočka	xHire
+potentsiaal, potentsiaali, potentsiaali	potenciál			xHire
+pott, poti, potti, ?, ?	hrnec	n:		xHire
+praad, prae, praadi, praadide, praade				
+praegu	nyní			xHire
+praegu	teď			xHire
+Praha, ?, ?	Praha		hlavní město České republiky	xHire
+praht, prahi, prahti				
+prantslane, prantslase, prantslast	Francouz			xHire
+prantslane, prantslase, prantslast	Francouzka			xHire
+prantsuse, ?, ?	francouzský			xHire
+Prantsusmaa, Prantsusmaa, Prantsusmaad	Francie			xHire
+preili, preili, preilit, ?, ?	slečna	n:		xHire
+president, ?, ?, ?, ?	prezident	n:		xHire
+Priit, ?, ?		mužské jméno		
+prillid, ?, ?	brýle	n: pl.		xHire
+prints, printsi, printsi, ?, ?	princ	n:		xHire
+professor, ?, ?, ?, ?	profesor	n:		xHire
+programmeerija, ?, ?	programátor			xHire
+programmeerima, programmeerida, programmeerin	programovat	v:		xHire
+pronoomen, pronoomeni, pronoomenit, pronoomenite, pronoomeneid	zájmeno	n: [lingv.]		xHire
+proovikabiin, ?, ?, ?, ?	zkušební kabinka	n:	v obchodě	xHire
+proovima, proovida, proovin	vyzkoušet	v: +PART		xHire
+proovima, proovida, proovin	zkusit	v: +PART		xHire
+protoplasma, ?, ?, ?, ?		n: [bio.]		
+protsent, protsendi, protsenti, protsentide, protsente	procento	n:		xHire
+protsessor, protsessori, ?, ?, ?	procesor	n: [it.]		xHire
+proua, proua, prouat	paní	n:		xHire
+pruun, pruuni, pruuni, ?, pruune	hnědý	adj:		xHire
+pruut, pruudi, pruuti				
+prükkar, ?-i, ?-it				
+psühholoogia, ?, ?	psychologie			xHire
+pudel, pudeli, pudelit, ?, ? láhev	n:			xHire
+puder, pudru, putru, ?, ?	kaše	n:		xHire
+puhas, puhta, puhast, ?, puhtaid		adj:		
+puhkama, puhata, puhkan	odpočívat	v:		xHire
+puhkus, puhkuse, puhkust, ?, ?	dovolená	n:		xHire
+puljong, ?, puljongit, ?, ?	vývar	n:		xHire
+pulstunud, ?, ?, ?, ?	zplstnatělý	adj:		xHire
+punahirv, ?, ?, ?, ?		n: [zoo.]		
+punakas, ?, ?, ?, ?	načervenalý	adj:		xHire
+punane, punase, punast, punaste, punaseid	červený	adj:		xHire
+punuma, ?, ?				
+puravik, ?, ?, ?, ?	křemenáč	n:		xHire
+purgisupp, ?, ?, ?, ?		n:		
+puu, puu, puud, puude, puid	strom	n:		xHire
+puukoor, ?, ?	borka	[bot.]		xHire
+puukoor, ?, ?	kůra	[bot.]		xHire
+puuriit, puuriida, puuriita, puuriitade, puuriitu	polínko	n:		xHire
+puuvili, puuvilja, puuvilja, puuviljade, puuvilju	ovoce	n:		xHire
+põder, põdra, põtra, ?, ?	los	n: [zoo.]		xHire
+põhi, ?, ?	dno			xHire
+põhi, põhja, põhja, ?, ?	sever	n:		xHire
+põld, põllu, põldu, ?, ?	pole	n:		xHire
+põlema, ?, ?	hořet	v:		xHire
+põletama, ?, ?	pálit	v:		xHire
+põletik, ?, ?, ?, ?	zánět	n:		xHire
+põlev, ?, ?				
+põlluvili, põlluvilja, põlluvilja, põlluviljade, põlluvilju		n:		
+põnev, ?, põnevat, ?, põnevaid		adj:		
+põrsas, põrsa, põrsast				
+põsk, põse, põsed	líc			xHire
+põsk, põse, põsed	tvář			xHire
+põõsas, põõsa, põõsast				
+päev, päeva, päeva, päevade, päevi	den	n:		xHire
+päevik, päeviku, päevikut	deník			xHire
+pähkel, ?, ?, ?, pähkleid	ořech	n:		xHire
+päike, päikese, päikest	slunce	n:		xHire
+päike, päikse, päikest	slunce	n:		xHire
+päikesevarjutus, ?, ?, ?, ?	zatmění Slunce	n: [astr.]		xHire
+pärast	po	prep: +PART		xHire
+pärastlõuna, pärastlõuna, pärastlõunat	odpoledne			xHire
+päris	celkem	adv:	~ poměrně; v pozitivním kontextu	xHire
+päris	docela	adv:		xHire
+pärit olema, pärit olla, olen pärit	být z	v: +ELA		xHire
+pärit olema, pärit olla, olen pärit	pocházet z	v: +ELA		xHire
+päss, ?, ?				
+pääsema, ?, pääsen		v:		
+pöörama, ?, ?	odbočit	v:		xHire
+pöörama, ?, ?	otočit se	v:		xHire
+pöörama, pöörata, pööran	časovat	v: [lingv.]	sloveso	xHire
+pööramine, ?, ?	časování	n: [lingv.]	sloves	xHire
+pöörduma, ?, ?				
+Püha Graal	svatý grál			xHire
+pühapäev, pühapäeva, pühapäeva	neděle	n:		xHire
+püksid, ?, pükse	kalhoty	n: pl.		xHire
+püsiklient, ?, ?				
+püsima, püsida, püsin	zůstat	v:		xHire
+püsti tõusma, püsti tõusta, tõusen püsti		v:		
+püüdma, püüda, püüan		v:		
+raadio, raadio, raadiot, ?, ?	rádio	n:		xHire
+raal, ?, ?, ?, ?	počítač	n: [zast.]	od 90. let se nepoužívá	xHire
+raamat, raamatu, raamatut, raamatute, raamatuid	kniha	n:		xHire
+raamatukauplus, raamatukaupluse, raamatukauplust, ?, ?	knihkupectví			xHire
+raamatukogu, raamatukogu, ramatukogu, ?, ?, [ILL] raamatukokku	knihovna	n:		xHire
+raamatupidaja, raamatupidaja, raamatupidajat, raamatupidajate, raamatupidajaid		n:		
+rada, raja, rada				
+radikuliit, ?, ?, ?, ?	bolest v kříži	n:		xHire
+radikuliit, ?, ?, ?, ?	hexnšus	n:		xHire
+radikuliit, ?, ?, ?, ?	houser	n:		xHire
+raekoda, raekoja, raekoda, ?, ?	radnice	n:		xHire
+raev, raevu, raevu				
+raha, raha, raha, ?, ?	peníze	n:		xHire
+rahakott, ?, ?, ?, ?	peněženka	n:		xHire
+rahaline, ?, ?, ?, ?		adj:		
+rahvaarv, rahvaarvu, rahvaarvu				
+rahvas, rahva, rahvast				
+rahvus, ?, ?, ?, ?	národnost	n:		xHire
+Rain, ?, ?		? jméno		
+Rainer, ?, ?		? jméno		
+Raivo, ?, ?		? jméno		
+rajav, ?, ?, ?, ?	terminativ	n: [lingv.]		xHire
+rakendama, rakendada, rakendan		v:		
+rakendamine, ?, ?, ?, ?		n:		
+rakubioloogia, ?, ?				
+rand, ?, ?				
+rannik, ranniku, rannikut, rannikute, rannikuid	pobřeží	n:		xHire
+rasedus, raseduse, ?, ?, ?	těhotenství	n:		xHire
+raske, raske, rasket, ?, raskeid	namáhavý	adj:	fyzicky	xHire
+raske, raske, rasket, ?, raskeid	složitý	adj:		xHire
+raske, raske, rasket, ?, raskeid	těžký	adj:		xHire
+raskelt	těžce	adv:		xHire
+raskusaste, raskusastme, raskusastet, raskusastmete, raskusastmeid	obtížnost	n:		xHire
+ratas, ratta, ratast, rataste, rattaid	jízdní kolo	n:		xHire
+ratsionaalarv, ratsionaalarvu, ?, ?, ?	racionální číslo	n: [mat.]		xHire
+ratsu, ?, ?	jezdec	n:	v šachu; R	xHire
+ratsu, ?, ?	kůň	n:	v šachu; R	xHire
+raud, raua, rauda, ?, ?	železo	n:		xHire
+raudne, ?, ?, ?, raudseid	železný	adj:		xHire
+raudteejaam, raudteejaama, raudteejaama, ?, ?, [ILL] raudteejaama	vlakové nádraží	n:		xHire
+ravim, ravimi, ravimit, ravimite, ravimeid	lék	n:		xHire
+reaalarv, reaalarvu, ?, ?, ?	reálné číslo	n: [mat.]		xHire
+realistlik, ?, ?				
+rebane, ?, ?, ?, rebaseid	liška	n:		xHire
+reede, reede, ?	pátek	n:		xHire
+Reet, ?, ?		ženské jméno		
+registreerima, registreerida, registreerin	registrovat	v:		xHire
+registreerima, registreerida, registreerin	zaznamenat	v:		xHire
+regulaarne, ?, ?	regulární			xHire
+Rein, ?, ?		mužské jméno		
+Reis ümber maailma	Člověče, nezlob se!		stolní hra	xHire
+reis, reisi, reisi, ?, reise	cesta	n:		xHire
+reisima, reisida, reisin	cestovat	v:		xHire
+reklaam, ?, ?	reklama	n:		xHire
+rekord, ?, ?				
+rektor, ?, ?, ?, ?	rektor	n:		xHire
+remondimees, ?, ?, ?, ?	opravář	n:		xHire
+reportaaž, ?, ?, ?, ?	reportáž	n:		xHire
+reservatsioonidega suhtuma	brát s rezervou			xHire
+restoran, restorani, restorani, ?, ?, [ILL] restorani	restaurace	n:		xHire
+režisöör, ?, ?, ?, ?	režisér	n:		xHire
+retsept, ?, ?	recept	n:		xHire
+retseptor, retseptori, ?, ?, ?	receptor	n:		xHire
+revüü, ?, ?, ?, revüüsid				
+rida, rea, rida, ?, ?	řada	n:		xHire
+Riia, ?, ?, [ILL] Riiga	Riga		hlavní město Lotyšska	xHire
+riidlema, riielda, riidlen		v:		
+riie, riide, riiet, ?, ?	látka	n:	textilní	xHire
+riie, riide, riiet, ?, ?	oblečení	n:		xHire
+riietama, ?, ?	obléci	v:	někoho	xHire
+riietuma, ?, ?	obléci se	v:		xHire
+riik, riigi, riiki	stát	n:		xHire
+riiklik, riikliku, riiklikku, riiklike, riiklikke	státní	adj:		xHire
+riiklik, riikliku, riiklikku, riiklikkude, riiklikke	státní	adj:		xHire
+Riina, ?, ?		ženské jméno		
+riis, riisi, riisi, riiside, riise	rýže	n:		xHire
+riis, riisi, riisi, riiside, riisisid	rýže	n:		xHire
+riisipaber, ?, ?, ?, ?	rýžový papír	n:		xHire
+riisipuder, ?, ?, ?, ?	rýžová kaše	n:		xHire
+riisipõld, ?, ?, ?, ?	rýžové pole	n:		xHire
+riistvara, ?, ?, ?, ?	hardware	n:		xHire
+riivjuust, riivjuustu, riivjuustu, ?, ?	nastrouhaný sýr	n:		xHire
+rikas, rikka, rikast, rikaste, rikkaid	bohatý	adj:		xHire
+ring, ringi, ringi, ringide, ringe		n:		
+ristima, ?, ?				
+ristsõna, ristsõna, ristsõna, ristsõnade, ristsõnu		n:		
+Rita, ?, ?		ženské jméno		
+Robert, ?, ?	Robert	mužské jméno		xHire
+robootika, ?, ?, ?, ?	robotika	n:		xHire
+robot, roboti, ?, ?, ?	robot	n:		xHire
+roheline, rohelise, rohelist, ?, ?	zelený	adj:		xHire
+rohi, rohu, rohtu, ?, rohte		n:		
+rohkem	více			xHire
+romaan, romaani, romaani, ?, ?	román	n:		xHire
+romantika, ?, ?				
+rong, rongi, rongi, rongide, ronge, [ILL] rongi	vlak	n:		xHire
+rongijaam, rongijaama, rongijaama, [ILL] rongijaama	vlakové nádraží	n:		xHire
+ronima, ronida, ronin	slézt	v:		xHire
+Rooma, ?, ?, [ILL] Rooma	Řím		hlavní město Itálie	xHire
+roos, roosi, roosi, ?, ?	růže	n:		xHire
+roosa, roosa, roosat, roosade, roosasid	růžový	adj:		xHire
+rooste, rooste, roostet				
+rootsi, ?, ?	švédský			xHire
+Rootsi, Rootsi, ?, [ILL] Rootsi	Švédsko			xHire
+rootslane, rootslase, rootslast	Švéd			xHire
+rootslane, rootslase, rootslast	Švédka			xHire
+rott, roti, rotti				
+rumal, rumala, rumalat, ?, ?	hloupoučký	adj:		xHire
+rumal, rumala, rumalat, ?, ?	hloupý	adj:		xHire
+rumalam, ?, ?, ?, ?	hloupější	adj:		xHire
+Rumeenia, ?, ?	Rumunsko			xHire
+ruuduline, ?, ?, ?, ?	kostkovaný	adj:		xHire
+ruum, ruumi, ruumi, ruumide, ruume	místo	n:		xHire
+rõdu, ?, ?, ?, ?		n:		
+rõõm, rõõmu, rõõmu	radost			xHire
+rõõmus, rõõmusa, rõõmusat, ?, ?	veselý			xHire
+rõõmustama, ?, ?	radovat se	v:		xHire
+rästik, rästiku, rästikut				
+rääkima, rääkida, räägin	mluvit	v: +PART		xHire
+rühm, rühma, rühma, ?, ?	grupa	n: [mat.]		xHire
+rühm, rühma, rühma, ?, ?	skupina	n:		xHire
+rühmateooria, ?, ?		n: [mat.]		
+rüütel, ?, ?	rytíř			xHire
+sa	ty	pron:		xHire
+saabas, saapa, saabast, ?, saapaid	zimní bota	n:		xHire
+saabumine, ?, ?, ?, ?	příjezd			xHire
+saade, saate, saadet				
+Saale, ?, ?		? jméno		
+saama, saada, saan	dostat	v:		xHire
+saama, saada, saan	moci	v: +DA infinitiv		xHire
+saapahari, saapaharja, saapaharja, ?, ?	kartáč na boty	n:		xHire
+saar, saare, saart, ?, ?	jasan	n: [bot.]	strom	xHire
+saar, saare, saart, ?, ?	ostrov	n:		xHire
+saatma, saata, saadan	poslat	v:		xHire
+saav, ?, ?, ?, ?	translativ	n: [lingv.]		xHire
+saba, saba, saba, ?, ?	ocas	n:		xHire
+sada, saja, sada	sto	num:		xHire
+sadama lund, sadada lund, lund sajab	sněžit	v:		xHire
+sadama vihma, sadada vihma, vihma sajab	pršet	v:		xHire
+sadama, sadada, sajab	padat	v: +PART		xHire
+sadama, sadada, sajab	pršet	v: +PART		xHire
+safiir, ?, ?, ?, ?	safír	n:		xHire
+sage, sageda, ?, ?, ?	častý	adj:		xHire
+sagedasti	často	adv:		xHire
+sagedus, ?, ?, ?, ?	frekvence	n: [fyz.]		xHire
+sageli		adv:		
+sahistama, ?, sahistan		v:		
+sahk, ?, ?				
+sahtel, sahtli, sahtlit				
+sahver, ?, ?, ?, ?				
+sai, saia, saia, ?, ?	francouzská bageta	n:		xHire
+saiake, ?, saiakest				
+sajand, sajandi, sajandit, sajandite, sajandeid	století	n:		xHire
+saksa, ?, ?	německý			xHire
+Saksamaa, Saksamaa, Saksamaad	Německo			xHire
+Saksamaa, Saksamaa, Saksamaad	Německo			xHire
+sakslane, sakslase, sakslast	Němec			xHire
+sakslane, sakslase, sakslast	Němka			xHire
+sakutama, ?, ?	tahat	v:		xHire
+salat, salati, salatit	salát	n:		xHire
+sale, saleda, saledat				
+sall, salli, salli, ?, ?	šála	n:		xHire
+salong, salongi, salongi	salón			xHire
+salv, ?, ?, ?, ?				
+sama, sama, sama, samade, samu	stejný	adj:		xHire
+samamoodi	stejně			xHire
+samm, ?, ?, ?, ?	krok	n:		xHire
+sammal, ?, ?				
+samuti	také			xHire
+Sandra, ?, ?	Sandra	ženské jméno		xHire
+sarnane, sarnase, sarnast, ?, ?	příbuzný	adj:		xHire
+seadus, ?, ?, ?, ?	zákon	n:		xHire
+seal	tam	adv:	místo	xHire
+sealt	odtamtud			xHire
+sedamoodi		adv:		
+see, selle, seda	to	pron: sg.	množné číslo {et need}; možný zkrácený tvar dalších pádů: „se + koncovka“	xHire
+seejärel, ?, ?				
+seelik, ?, ?, ?, ?	sukně	n:		xHire
+seeme, ?, ?, ?, ?	semínko	n:		xHire
+seemnevili, seemnevilja, seemnevilja, seemneviljade, seemnevilju		n:		
+seen, ?, ?, ?, ?	houba	n:		xHire
+seenelkäik, ?, ?, ?, ?	houbaření	n:		xHire
+sees	uvnitř	adp: +GEN		xHire
+seestütlev, ?, ?, ?, ?	elativ	n: [lingv.]	vnitřní místní pád – směr ven	xHire
+seesütlev, ?, ?, ?, ?	inessiv	n: [lingv.]	vnitřní místní pád – statický (v něčem)	xHire
+segama, segada, segan	rušit	v:	někoho	xHire
+segavili, segavilja, segavilja, segaviljade, segavilju		n:		
+seikleja, ?, ?	dobrodruh			xHire
+seiklus, seikluse, seiklust	dobrodružství			xHire
+sein, seina, seina, ?, ?	stěna	n:		xHire
+seisma, seista, seisan	stát	v:	ne o ceně	xHire
+seitse sada, ?, ?	sedm set	num:		xHire
+seitse, seitsme, seitset	sedm	num:		xHire
+seitsekümmend, ?, ?	sedmdesát	num:		xHire
+seitseteist, ?, ?	sedmnáct	num:		xHire
+sekretär, sekretäri, sekretärit, ?, ?	sekretářka	n:		xHire
+seksikas, ?, ?, ?, ?	sexy	adj:		xHire
+sekund, sekundi, sekundit	sekunda	n:		xHire
+sekund, sekundi, sekundit	vteřina	n:		xHire
+seletama, seletada, ?	vysvětlit	v:		xHire
+selg, selja, selga, ?, ?, [ILL] selga	záda	n:		xHire
+selgitama, ?, ?				
+sellepärast	protože			xHire
+sellest	o tom		např. Sellest sa mulle ei rääkinud. – O tom jsi mi neřekl.	xHire
+selts, ?, ?, ?, ?	řád	n: [bio.]		xHire
+semikoolon, ?, ?, ?, ?	středník	n:		xHire
+semiootika, ?, ?				
+semu, semu, semu				
+sent, sendi, senti	cent			xHire
+sentimeeter, sentimeetri, sentimeetrit	centimetr			xHire
+sepp, sepa, seppa				
+september, septembri, ?	září			xHire
+server, ?, ?, ?, ?	server	n:		xHire
+sest	protože	conj:		xHire
+setteõli, ?, ?				
+sibama, ?, siban		v:		
+sibul, sibula, sibulat, sibulate, sibulaid	cibule	n:		xHire
+siduma, siduda, seon		v:		
+siga, sea, siga, sigade, sigu	prase	n:		xHire
+sihtkoht, ?, ?				
+siia	sem			xHire
+siil, siili, siili, siilide, siile	ježek	n: [zoo.]		xHire
+Siim, ?, ?		? jméno		
+siin	tady			xHire
+Siiri, ?, ?		? jméno		
+siis	potom			xHire
+siis	tedy			xHire
+siiski	přesto	adv:		xHire
+siit	odtud			xHire
+sild, silla, silda, ?, ?				
+Sileesia, ?, ?	Slezsko			xHire
+silm, silma, silma, ?, silmasid	oko	n:		xHire
+silm, silma, silma, ?, silmi	oko	n:		xHire
+silmapiir, ?, ?				
+silmitsema, ?, ?				
+silur	silur	[geol.]	období prvohor	xHire
+Silver, Silveri, ?		mužské jméno		
+sina, sinu, sind	ty		oficiálnější tvar	xHire
+singular, ?, ?	jednotné číslo	n: [lingv.]	z latiny	xHire
+sinine, sinise, sinist, siniste, siniseid	modrý	adj:		xHire
+sink, singi, sinki, ?, ?	šunka	n:		xHire
+sinna	tam	adv:	směr	xHire
+sinu	tvůj		v písmu častější tvar; musí být následováno přivlastňovaným objektem nebo slovem {et oma}	xHire
+sinule	pro tebe	pron:		xHire
+sinule	tobě	pron:		xHire
+sipelgas, sipelga, sipelgat				
+sirge, sirge, sirget, ?, ?	rovný	adj:		xHire
+siseehitus, ?, ?, ?, ?		n:		
+siseelund, ?, ?, ?, ?		n:		
+sisse	dovnitř	adv:		xHire
+sisseütlev, ?, ?, ?, ?	illativ	n: [lingv.]	vnitřní místní pád – směr dovnitř	xHire
+sisukord, ?, ?				
+skandaal, ?, ?, ?, ?	skandál	n:		xHire
+skeem, skeemi, ?, skeemide, ?	schéma	n:		xHire
+slovaki, ?, ?	slovenský	adj:		xHire
+slovakk, slovaki, slovakki	Slovák			xHire
+slovakk, slovaki, slovakki	Slovenka			xHire
+Slovakkia, Slovakkia, ?	Slovensko			xHire
+Sloveenia, ?, ?	Slovinsko			xHire
+sobima, sobida, sobib	hodit se	v:		xHire
+sobima, sobida, sobib	slušet	v: +ALL	např. See müts sobib sulle. – Ta čepice ti sluší.	xHire
+sobiv, ?, ?	vhodný	adj:		xHire
+soe, sooja, sooja, ?, soojasid	teplý	adj:		xHire
+soe, sooja, sooja, ?, sooje	teplý	adj:		xHire
+sokk, soki, sokki, ?, ?	ponožka	n:		xHire
+solvuma, solvuda, solvun		v:		
+soo, soo, sood, [ILL] sohu	bažina			xHire
+soo, soo, sood, [ILL] sohu	močál			xHire
+soodne, soodsa, soodsat				
+soojem, ?, ?, ?, ?	teplejší	adj:		xHire
+sool, soola, soola, ?, ?	sůl	n:		xHire
+soolaleivapidu, ?, ?, ?, ?	housewarming party	n:	kolaudační večírek?	xHire
+soolane, ?, ?, ?, ?	slaný	adj:		xHire
+soome, ?, ?	finský			xHire
+Soome, Soome, ?, [ILL] Soome	Finsko			xHire
+soomlane, sommlase, soomlast	Fin			xHire
+soomlane, sommlase, soomlast	Finka			xHire
+soov, soovi, soovi				
+soovima, soovida, soovin	přát si	v: +PART		xHire
+sordivili, sordivilja, sordivilja, sordiviljade, sordivilju		n:		
+sosistama, ?, ?	pošeptat	v:		xHire
+sotsiaalne manipulatsioon	sociální inženýrství	n: [it.]		xHire
+sotsioloogia, ?, ?	sociologie			xHire
+sport, spordi, sporti, ?, ?	sport	n:		xHire
+sportlik, ?, ?, ?, ?	sportovní	adj:		xHire
+staadion, staadioni, staadioni, staadionide, staadione	stadión	n:		xHire
+staadion, staadioni, staadionit, staadionite, staadioneid	stadión	n:		xHire
+staap, ?, ?	štáb	n:		xHire
+staatus, ?, ?, ?, ?	status	n:		xHire
+statistika, ?, ?	statistika			xHire
+status quo				
+stiilikas, ?, ?, ?, ?	stylový	adj:		xHire
+stiilne, ?, ?	stylový			xHire
+Stockholm, ?, ?	Stockholm		hlavní město Švédska	xHire
+strateegia, ?, ?, ?, ?	strategie	n:		xHire
+stratosfäär, ?, ?	stratosféra			xHire
+streikima, streikida, streigin	stávkovat	v:		xHire
+stsenarist, ?, ?, ?, ?	scenárista	n:		xHire
+sugukond, ?, ?, ?, ?	čeleď	n: [bio.]		xHire
+sugukromosoom, ?, ?				
+sugulane, ?, ?, ?, ?	příbuzný	n:		xHire
+sugupuu, sugupuu, sugupuud	rodokmen			xHire
+suhe, suhte, suhet, suhete, suhteid	vztah	n:		xHire
+suhkur, suhkru, suhkrut, ?, ?	cukr	n:		xHire
+suhtlema, suhelda, suhtlen	jednat	v:		xHire
+suhtlemine, ?, ?, ?, ?	jednání	n:		xHire
+suhtumine, ?, ?, ?, ?	postoj	n:		xHire
+suhtumine, ?, ?, ?, ?	přístup	n:		xHire
+sulanud, ?, ?, ?, ?	roztavený	adj:		xHire
+sularaha	hotovost			xHire
+sulg, sule, sulge				
+sulgema, sulgeda, sulen		v:		
+sulgvili, sulgvilja, sulgvilja, sulgviljade, sulgvilju		n: [bot.]		
+sull, ?, ?	bublina			xHire
+sulle	pro tebe	pron:		xHire
+sulle	tobě	pron:		xHire
+supikatel, ?, ?, ?, ?				
+supikauss, ?, ?, ?, ?				
+supikont, ?, ?, ?, ?				
+supikulp, ?, ?, ?, ?				
+supiliha, supiliha, supiliha, supilihade, supilihasid				
+supipada, ?, ?, ?, ?				
+supipaks, ?, ?, ?, ?				
+supipott, ?, ?, ?, ?	polévkový hrnec	n:		xHire
+supitaldrik, ?, ?, ?, ?	polévkový talíř	n:		xHire
+supitilk, ?, ?, ?, ?				
+supitirin, ?, ?, ?, ?				
+supivaagen, ?, ?, ?, ?				
+supivedel, supivedela, ?, ?, ?				
+supp, supi, suppi, suppide, suppe	polévka	n:		xHire
+supp, supi, suppi, suppide, suppisid	polévka	n:		xHire
+surema, surra, suren	umírat	v:		xHire
+surema, surra, suren	umřít	v:		xHire
+surm, ?, ?, ?, ?	smrt	n:		xHire
+suss, sussi, sussi				
+suu, suu, suud, suude, suid, [ILL] suhu	pusa	n:		xHire
+suu, suu, suud, suude, suid, [ILL] suhu	ústa	n:		xHire
+suudlus, ?, ?				
+suuline eksam, ?, ?, ?, ?	ústní zkouška	n:		xHire
+suuline, ?, ?, ?, ?	ústní	adj:		xHire
+suund, ?, ?				
+suupill, suupilli, suupilli	foukací harmonika			xHire
+suur, suure, suurt, suurte, suuri, [ILL] suurde	velký	adj:		xHire
+Suurbritannia, ?, ?	Velká Británie			xHire
+suurem, suurema, ?, ?, ?	větší	adj:		xHire
+suurepärane, ?, ?, ?, ?	perfektní	adj:		xHire
+suurepäraselt	perfektně	adv:		xHire
+suurim, ?, ?, ?, ?	největší	adj:		xHire
+suurus, ?, suurust, ?, ?	velikost	n:		xHire
+suusk, suusa, suuska				
+suutma, ?, ?	moci (být schopen)	v:		xHire
+suvekool, suvekooli, suvekooli, [ILL] suvekooli	letní škola			xHire
+suveniir, suveniiri, suveniiri, ?, ?				
+suvi, suve, suve, ?, ?	léto	n:		xHire
+suvila, ?, ?, ?, ?	chata	n:		xHire
+suvine, ?, ?	letní	adj:		xHire
+suvivili, suvivilja, suvivilja, suviviljade, suvivilju		n:		
+sõber, sõbra, sõpra, sõprade, sõpru	kamarád	n:		xHire
+sõbralik, sõbraliku, sõbralikku				
+sõbranna, sõbranna, ?, ?, sõbrannasid	kamarádka	n:		xHire
+sõda, sõja, sõda, ?, ?	válka	n:		xHire
+sõdur, sõduri, sõdurit				
+sõge, ?, ?				
+sõiduk, sõiduki, sõidukit, ?, ?				
+sõitma, sõita, sõidan	jet	v:	dopravním prostředkem	xHire
+sõitma, sõita, sõidan	řídit	v:	dopravní prostředek; např. autoga sõitma – řídit auto	xHire
+sõjaline, ?, ?, ?, ?	válečný	adj:		xHire
+sõlm				
+sõna, sõna, sõna, sõnade, sõnu	slovo	n:		xHire
+sõnaraamat, sõnaraamatu, sõnaraamatut, ?, ?	slovník	n:		xHire
+sõnastik, sõnastiku, sõnastikku, ?, ?		n:		
+sõrm, sõrme, sõrme, ?, ?				
+sõrmistik, ?, ?, ?, ?	klávesnice	n:		xHire
+sõstar, sõstra, ?, ?, ?	rybíz	n: sg.		xHire
+sõõm, ?, ?				
+sära, ?, ?				
+särama, ?, ?				
+särk, ?, ?, ?, ?	košile	n:		xHire
+sääraselt		adv:		
+säästma, säästa, säästan	šetřit	v:	např. säästa aega – šetřit čas	xHire
+söene, ?, ?				
+sörkima, ?, ?				
+söö, ?, ?				
+söödavili, söödavilja, söödavilja, söödaviljade, söödavilju		n:		
+söök, söögi, sööki, ?, ?	jídlo	n:		xHire
+söökla, söökla, sööklat				
+sööma, süüa, söön	jíst	v: +PART		xHire
+söövitama, ?, ?				
+söövitamine, ?, ?, ?, ?		n:		
+sügis, sügise, sügist	podzim			xHire
+sülearvuti, sülearvuti, sülearvutit	laptop			xHire
+sülearvuti, sülearvuti, sülearvutit	notebook			xHire
+sümmeetria, ?, ?	symetrie			xHire
+sümptom, sümptomi, sümptomit, ?, ?	projev	n:		xHire
+sümptom, sümptomi, sümptomit, ?, ?	symptom	n:		xHire
+sündima, sündida, sünnin		v:		
+sündinud olema, sündinud olla, olen sündinud	být narozen		kde/kdy/…	xHire
+sünnipäevalaps, sünnipäevalapse, sünnipäevalast	narozeninový oslavenec			xHire
+sünonüüm, sünonüümi, sünonüümi, sünonüümide, sünonüüme	synonymum	n: [lingv.]		xHire
+süsi, söe, sütt, ?, ?	popel	n:		xHire
+süsinikdioksiid	oxid uhličitý	[chem.]	CO₂	xHire
+süsinikmonooksiid	oxid uhelnatý	[chem.]	CO	xHire
+süsteem, süsteemi, ?, ?, ?	systém	n:		xHire
+süü, ?, ?, ?, ?		n:		
+Süüria, Süüria, Süüriat	Sýrie			xHire
+šahh, ?, ?	šach	n:		xHire
+šampoon, šampooni, šampooni, ?, ?				
+šašlõkk, ?, ?				
+šatään, ?, ?				
+šnitsel, ?, ?	řízek			xHire
+šokolaad, šokolaadi, šokolaadi, ?, ?	čokoláda	n:		xHire
+šoti, ?, ?	skotský			xHire
+Šotimaa, Šotimaa, Šotimaad	Skotsko			xHire
+šotlane, šotlase, šotlast	Skot			xHire
+Šveits, ?, ?	Švýcarsko			xHire
+šveitslane, šveitslase, šveitslast	Švýcar			xHire
+šveitslane, šveitslase, šveitslast	Švýcarka			xHire
+zlott, ?, ?				
+zooloogia, ?, ?	zoologie			xHire
+zoopark, ?, ?	zoopark			xHire
+žetoon, ?, ?, ?, ?	token	n:		xHire
+žetoon, ?, ?, ?, ?	žeton	n:		xHire
+žilett, ?, ?	žiletka			xHire
+žurnaal, ?, ?	žurnál			xHire
+ta	jeho	pron:		xHire
+ta	její	pron:		xHire
+ta, ta, -	on	pron:		xHire
+ta, ta, -	ona	pron:		xHire
+taani, ?, ?	dánský			xHire
+Taani, Taani, ?, [ILL] Taani	Dánsko			xHire
+taanlane, taanlase, taanlast	Dán			xHire
+taanlane, taanlase, taanlast	Dánka			xHire
+Taavi, ?, ?	David	mužské jméno		xHire
+taevas, taeva, taevast, ?, ?	nebe	n:		xHire
+taevas, taeva, taevast, ?, ?	obloha	n:		xHire
+taga	za	adp: +GEN	místo	xHire
+tagant	zpoza	adp: +GEN		xHire
+tagasi	dozadu	adv:		xHire
+tagasi	před	adp:	např. kaks aastat tagasi – před dvěma lety	xHire
+tagasi	zpátky	adv:		xHire
+tagasi	zpět	adv:		xHire
+tagumik, tagumiku, ?, ?, ?	zadek	n:		xHire
+taha	za	adp: +GEN	směr	xHire
+tahe, tahte, tahet				
+tahtma, tahta, tahan	chtít	v: +DA infinitiv		xHire
+tahvel, tahvli, tahvlit, ?, ?	tabule	n:		xHire
+tahvelarvuti, tahvelarvuti, tahvelarvutit, ?, ?	tablet	n:	počítač	xHire
+taifuun, ?, ?	tajfun			xHire
+taim, taime, taime, ?, taimi	rostlina	n:		xHire
+taipama, taibata, taipan		v:		
+tajutav, ?, ?				
+takisti, ?, takistit, takistite, ?	rezistor	n: [el.]		xHire
+takistus, ?, ?, ?, ?	odpor	n: [el.]		xHire
+takso, takso, taksot	taxi			xHire
+taksofon, taksofoni, taksofoni, ?, ?	telefonní automat	n:	často umístěný v telefonní budce	xHire
+taksojuht, taksojuhi, ?, ?, ?	taxikář	n:		xHire
+taktika, ?, ?, ?, ?	taktika	n:		xHire
+taldrik, ?, ?, ?, ?	talíř	n:		xHire
+talivili, talivilja, talivilja, taliviljade, talivilju		n:		
+talle	jemu	pron:		xHire
+talle	jí	pron:		xHire
+Tallinn, Tallinna, ?	Tallinn		hlavní město Estonska	xHire
+talu, talu, talu				
+talv, talve, talve	zima	n:		xHire
+taotlema, taotleda, taotlen		v:		
+taotlus, taotluse, ?, ?, ?	žádost	n:		xHire
+tapma, tappa, ?		v:		
+tapma, tappa, tapan	zabít	v:		xHire
+tarbevili, tarbevilja, tarbevilja, tarbeviljade, tarbevilju		n:		
+targem, ?, ?, ?, ?	chytřejší	adj:		xHire
+tark, targa, tarka, tarkade, tarku	chytrý	adj:		xHire
+tarkus, tarkuse, tarkust, ?, ?	moudrost	n:		xHire
+tarkvara, ?, ?, ?, ?	software	n:		xHire
+Tarmo, ?, ?		? jméno		
+tase, taseme, taset, tasete, tasemeid	stupeň	n:		xHire
+tase, taseme, taset, tasete, tasemeid	úroveň	n:		xHire
+tass, tassi, tassi, ?, ?	hrnek	n:		xHire
+tass, tassi, tassi, ?, ?	šálek	n:		xHire
+tasu, tasu, tasu, ?, ?	mzda	n:		xHire
+tasu, tasu, tasu, ?, ?	plat	n:		xHire
+tasuta	zdarma			xHire
+Tauno, Tauno, ?		? jméno		
+tavaline, tavalise, tavalist, ?, ?	běžný	adj:		xHire
+tavaline, tavalise, tavalist, ?, ?	normální	adj:		xHire
+tavaline, tavalise, tavalist, ?, ?	obvyklý	adj:		xHire
+tavaline, tavalise, tavalist, ?, ?	obyčejný	adj:		xHire
+tavaliselt	obvykle			xHire
+te	váš			xHire
+te, te, ?	vy	pron:		xHire
+teade, teate, teadet, teadete, teateid				
+teadma, teada, tean	vědět	v: +PART		xHire
+teater, teatri, teatrit, teatrite, teatreid	divadlo	n:		xHire
+teder, tedre, tetre				
+tee, tee, teed, teede, ?	čaj	n:		xHire
+tee, tee, teed, teede, ?	silnice	n:		xHire
+Teele, ?, ?		ženské jméno		
+teenindus, teeninduse, teenindust, ?, ?		n:		
+tegelema, tegelda, tegelen		v:		
+tegelema, tegeleda, tegelen		v:		
+tegelikult	ve skutečnosti	adv:		xHire
+tegema, teha, teen	dělat	v: +PART		xHire
+tegevuskava, ?, ?, ?, ?	akční plán	n:		xHire
+tegu, ?, ?				
+tegu, teo, tegu				
+tegusõna, ?, ?, ?, ?	sloveso	n: [lingv.]		xHire
+tehe, tehte, tehet, ?, ?	funkce	n: [mat.]		xHire
+tehnika, ?, ?				
+tehnoloogia, ?, ?, ?, tehnoloogiaid	technologie	n:		xHire
+teie	váš		v písmu častější tvar; musí být následováno přivlastňovaným objektem nebo slovem {et oma}	xHire
+teie, teie, ?	vy	pl.	oficiálnější tvar; i vykání	xHire
+teile	vám	pron:		xHire
+teine, teise, teist	druhý			xHire
+teisipäev, teisipäeva, teisipäeva	úterý			xHire
+teisiti				
+tekikoht, ?, ?, ?, ?				
+tekk, ?, ?, ?, ?	deka	n:		xHire
+tekkima, tekkida, tekin		v:		
+tekkima, tekkida, tekkin		v:		
+tekst, teksti, teksti, tekstide, tekste	text	n:		xHire
+telefon, telefoni, telefoni, ?, ?	telefon	n:		xHire
+telefoniaparaat, ?, ?, ?, ?	telefonní přístroj	n:		xHire
+telefoniautomaat, ?, ?, ?, ?	telefonní automat	n:	často umístěný v telefonní budce	xHire
+telefoniputka, telefoniputka, ?, ?, ?	telefonní budka	n:		xHire
+telefoniraamat, ?, ?, ?, ?	telefonní seznam	n:		xHire
+telekas, ?, telekat	televize	n: [hov.]		xHire
+televiisor, ?, televiisorit, ?, ?	televize	n:		xHire
+televiisor, ?, televiisorit, ?, ?	televizor	n:		xHire
+televisioon, ?, ?				
+tellima, tellida, tellin	objednat	v:		xHire
+tellima, tellida, tellin	objednat si	v:		xHire
+tema	jeho		v písmu častější tvar; musí být následováno přivlastňovaným objektem nebo slovem {et oma}	xHire
+tema	její		v písmu častější tvar; musí být následováno přivlastňovaným objektem nebo slovem {et oma}	xHire
+tema, tema, teda	on		oficiálnější tvar	xHire
+tema, tema, teda	ona		oficiálnější tvar	xHire
+temale	jemu	pron:		xHire
+temale	jí	pron:		xHire
+teooria, ?, ?	teorie			xHire
+teravili, teravilja, teravilja, teraviljade, teravilju		n:		
+tere	ahoj			xHire
+tere	dobrý den		pozdrav při vítání; méně formální	xHire
+teremin, teremini, ?, ?, ?	theremin	n: [hud.]		xHire
+terminatiiv, ?, ?, ?, ?	terminativ	n: [lingv.]	z latiny	xHire
+termosfäär, ?, ?				
+terve, ?, ?, ?, ?	celý	adj:		xHire
+terve, ?, ?, ?, ?	zdravý	adj:		xHire
+tervis, tervise, tervist, ?, ?	zdraví	n:		xHire
+terviseks!	na zdraví!		po kýchnutí	xHire
+tervist	dobrý den		pozdrav	xHire
+tervitus, tervituse, tervitust, ?, ?	pozdrav	n:		xHire
+test, testi, testi, testide, teste	test	n:		xHire
+tige, tigeda, tigedat				
+tigu, teo, tigu				
+tihedus, ?, ?				
+tihti	často	adv:		xHire
+tiib, tiiva, tiiba				
+tiibvili, tiibvilja, tiibvilja, tiibviljade, tiibvilju		n: [bot.]		
+Tiidrik, ?, ?		mužské jméno		
+tiigel, ?, ?, ?, ?		n:		
+Tiina, ?, ?		ženské jméno		
+Tiit, ?, ?		mužské jméno; krátká varianta od {et Tiidrik}		
+tiitel, ?, ?, ?, ?	titul	n:	např. akademický ~, ~ knihy	xHire
+Tiiu, ?, ?		ženské jméno		
+Timo, ?, ?		? jméno		
+tippimine ,?, ?, ?, ?	psaní	n:	např. ~ na klávesnici – sõrmistikul ~	xHire
+tisler, tisleri, tislerit				
+tohtima, tohtida, tohin	smět	v: +DA infinitiv		xHire
+toiduvili, toiduvilja, toiduvilja, toiduviljade, toiduvilju		n:		
+toimetaja, ?, ?, ?, ?		n:		
+toimetus, ?, ?, ?, ?		n:		
+toimuma, toimuda, toimub		v:		
+tolerants, ?, ?, ?, ?	odchylka	n:		xHire
+tolerants, ?, ?, ?, ?	tolerance	n:		xHire
+tomat, tomati, tomatit, ?, ?	rajče	n:		xHire
+tool, tooli, tooli, ?, toole	židle	n:		xHire
+tooma, tuua, toon	přinést	v: +PART		xHire
+Toomas, Toomase, ?	Tomáš	mužské jméno		xHire
+toomingas, toominga, toomingat				
+toornafta, ?, ?				
+toorparafiin, ?, ?				
+topelt, ?, ?, ?, ?	dvojitý	adj:		xHire
+topeltmaksustamine, ?, ?, ?, ?	dvojité zdanění	n:		xHire
+topologie, ?, ?, ?, ?	topologie	n:		xHire
+tore, toreda, toredat, ?, toredaid	skvělý	adj:		xHire
+tore, toreda, toredat, ?, toredaid	úžasný	adj:		xHire
+tornmaja, ?, ?, ?, ?		n:		
+tort, tordi, torti, ?, ?	dort	n:		xHire
+traktor, traktori, traktorit				
+trall, ?, ?	tanec			xHire
+tramm, trammi, trammi, trammide, tramme, [ILL] trammi	tramvaj	n:		xHire
+transistor, ?, transistori, ?, ?	tranzistor	n: [el.]		xHire
+translatiiv, ?, ?, ?, ?	translativ	n: [lingv.]	z latiny	xHire
+triibuline, triibulise, triibulist, triibuliste, triibulisi	pruhovaný	adj:		xHire
+Triinu, ?, ?		ženské jméno		
+tromboon, trombooni, trombooni, ?, ?				
+troposfäär, ?, ?	troposféra			xHire
+trumm, trummi, trummi, ?, ?	buben	n:		xHire
+trükkplaat, trükkplaadi, ?, ?, ?	deska plošných spojů	n: [el.]		xHire
+tsirkulatsioon, ?, ?	cirkulace			xHire
+tsütoplasma, tsütoplasma, ?, ?, ?	cytoplazma	n: [bio.]		xHire
+tšau	čau		pozdrav při vítání i loučení	xHire
+tšehh, tšehhi, tšehhi	Čech			xHire
+Tšehhi vabariik	Česká republika			xHire
+tšehhi, ?, ?	český	adj:		xHire
+Tšehhi, Tšehhi, ?	Česko			xHire
+Tšehhimaa, Tehhimaa, Tehhimaad	Česko			xHire
+tšehhitar, ?, ?	Češka		obvykle se nepoužívá	xHire
+Tšornobõl, Tšornobõli, ?	Černobyl			xHire
+tuba, toa, tuba, tubade, tube, [ILL] tuppa	pokoj	n:		xHire
+tubli, tubli, tublit, tublide, tublisid	pilný	adj:		xHire
+tubli, tubli, tublit, tublide, tublisid	šikovný	adj:		xHire
+tublilt		adv:		
+tublisti		adv:		
+tudeng, tudengi, tudengit, tudengite, tudengeid	student	n:		xHire
+tugev, tugeva, tugevat, ?, ?	silný	adj:		xHire
+tugevam, ?, ?, ?, ?	silnější	adj:		xHire
+tugevasti	silně	adv:		xHire
+tuhat, ?, ?	tisíc	num:		xHire
+tujukas, tujuka, tujukat, ?, ?	náladový	adj:		xHire
+tujukas, tujuka, tujukat, ?, ?	nevyzpytatelný	adj:		xHire
+tukk, tuka, tukka				
+tulema, tulla, tulen	přijít	v: +MA infinitiv		xHire
+tulemus, ?, ?, ?, ?	výsledek	n:		xHire
+tuli	šach	n:		xHire
+tuli, tule, tuld, tulede, tulesid	oheň	n:		xHire
+tuli, tule, tuld, tulede, tulesid	světlo	n:		xHire
+tulu, tulu, tulu, tulude, tulusid				
+tume, tumeda, tumedat, ?, ?	tmavý	adj:		xHire
+tund, tunni, tundi, ?, tunde, [ILL] tundi	hodina	n:	jednotka času; výuka/kurz (např. hodina francouzštiny)	xHire
+tundlik, ?, ?, ?, ?	citlivý	adj:		xHire
+tundma, tunda, tunnen	cítit	v:		xHire
+tundma, tunda, tunnen	pociťovat	v:		xHire
+tundma, tunda, tunnen	znát	v:		xHire
+tundmatu, tundmatu, tundmatut				
+tunne, tunde, tunnet, ?, ?	pocit	n:		xHire
+tunnel, ?, ?, ?, ?	tunel	n:		xHire
+tunnikontroll, ?, ?	test	n:	ve škole	xHire
+tunnistus, tunnistuse, tunnistust, tunnistuste, tunnistusi	vysvědčení	n:	ve škole	xHire
+tuntud, ?, ?, ?, ?	známý	adj:		xHire
+turg, turu, turgu, ?, ?, [ILL] turgu	trh	n:		xHire
+turi, ?, ?, ?, ?	zátylek	n:		xHire
+turvas, turba, turvast				
+tuttav, tuttava, tuttavat, ?, tuttavaid	známý	n:		xHire
+tuttavaks saama, tuttavaks saada, saan tuttavaks	seznámit se			xHire
+tuul, tuule, tuult, ?, ?	vítr			xHire
+tõesti	doopravdy			xHire
+tõesti	skutečně			xHire
+tõlge, tõlke, tõlget, tõlgete, tõlkeid	překlad	n:		xHire
+tõlk, tõlgi, tõlki, tõlkide, tõlke	tlumočník	n:		xHire
+tõlkija, tõlkija, tõlkijat, ?, ?	překladatel	n:		xHire
+tõlkima, tõlkida, tõlgin	překládat			xHire
+tõmbama, tõmmata, tõmban		v:		
+Tõnis, ?, ?		mužské jméno		
+Tõnu, ?, ?		mužské jméno		
+tõsi, tõe, tõtt				
+tõstma, tõsta, tõstan	zvednout	v:		xHire
+tõstuk, ?, ?, ?, ?	lanovka	n:		xHire
+tõtlik, ?, ?, ?, ?	kvapný	adj:		xHire
+tõtlik, ?, ?, ?, ?	rychlý	adj:		xHire
+tõttu	kvůli	adp: +GEN		xHire
+tõukeratas, tõukeratta, tõukeratast	koloběžka	n:		xHire
+tõus, ?, ?, ?, ?	zvednutí	n:		xHire
+tõusma, tõusta, tõusen	zvednout	v:		xHire
+tõuvili, tõuvilja, tõuvilja, tõuviljade, tõuvilju		n:		
+tädi, tädi, tädi, tädide, tädisid	teta	n:		xHire
+tähendama, tähendada, tähendan		v:		
+tähendus, ?, ?, ?, tähenduseid	význam	n:		xHire
+tähestik, tähestiku, tähestikku, ?, ?	abeceda	n:		xHire
+täht, tähe, tähte, tähtede, tähti	písmeno	n:		xHire
+tähtis, ?, ?, ?, ?	důležitý	adj:		xHire
+tähtkiri, tähtkirja, tähtkirja, ?, ?		n:		
+täiesti	úplně	adv:		xHire
+täis, ?, ?, ?, ?	plný	adj:		xHire
+täisarv, täisarvu, ?, ?, ?	celé číslo	n: [mat.]		xHire
+täisgraaf, ?, ?	úplný graf	n: [mat.]		xHire
+täiskasvanud, ?, ?, ?, ?	dospělý	adj:		xHire
+täitma, täita, täidan	vyplnit	v:		xHire
+täna	dnes	adv:		xHire
+tänama, tänada, tänan	děkovat	v: +PART		xHire
+tänapäeva-ajalehed	dnešní noviny			xHire
+tänav, tänava, tänavat, tänavate, tänavaid	ulice	n:		xHire
+tänavavalgusti, ?, ?				
+tänu	díky	+ALL	např. díky Internetu – tänu Internetile	xHire
+täpiline, täpilise, ?, ?, ?	puntíkatý	adj:		xHire
+täpiline, täpilise, ?, ?, ?	puntíkovaný	adj:		xHire
+täpselt	přesně	adv:		xHire
+täpselt niin	přesně tak			xHire
+töine, ?, ?				
+tönnima, ?, ?				
+töö, töö, tööd, tööde, töid	práce	n:	nějaká činnost	xHire
+töö, töö, tööd, tööde, töid	zaměstnání	n:	např. Ma olen tööl. – Jsem v práci.	xHire
+töökaaslane, töökaaslase, töökaaslast, ?, ?	kolega	n:		xHire
+töökas, tööka, ?, ?, ?	pracovitý	adj:		xHire
+töökas, tööka, ?, ?, ?	těžce pracující	adj:		xHire
+töökoht, ?, ?				
+tööline, töölise, töölist				
+töömees, ?, ?, ?, ?		n:		
+tööpüksid, ?, tööpükse	pracovní kalhoty	n: pl.		xHire
+töörühm, töörühma, töörühma, ?, ?	pracovní skupina	n:		xHire
+töötama, töötada, töötan	pracovat			xHire
+töötu, ?, ?				
+töövili, töövilja, töövilja, tööviljade, töövilju		n: [bot.]		
+tüdruk, tüdruku, tüdrukut, tüdrukute, tüdrukuid	děvče	n:		xHire
+tüdruk, tüdruku, tüdrukut, tüdrukute, tüdrukuid	dívka	n:		xHire
+tüdruk, tüdruku, tüdrukut, tüdrukute, tüdrukuid	holka	n:		xHire
+tühi, tühja, tühja, ?, tühjasid	prázdný	adj:		xHire
+tühi, tühja, tühja, ?, tühje	prázdný	adj:		xHire
+tühjendama, ?, ?	vyprázdnit	v:		xHire
+tükk, tüki, tükki				
+tülitama, ?, ?				
+tüse, tüseda, tüsedat				
+tütar, tütre, tütart, tütarde, ?	dcera	n:		xHire
+tütarlaps, tütarlapse, tütarlast, ?, ?	děvče			xHire
+tüvi, tüve, tüve, tüvede, tüvesid	kmen	n:	stromu, slova, …	xHire
+tüüp, ?, tüüpi, ?, ?	typ	n:		xHire
+tüütu, ?, ?, ?, ?	otravný	adj:		xHire
+uba, oa, uba, ubade, ubasid	fazole	n:		xHire
+uba, oa, uba, ubade, ube	fazole	n:		xHire
+udu, ?, ?	mlha			xHire
+uhiuus, ?, ?, ?, ?	zbrusu nový	adj:		xHire
+uhkama, uhata, uhkan		v:		
+uhke, ?, ?, ?, ?	pyšný	adj:		xHire
+uisutama, ?, ?	bruslit	v:	na ledě	xHire
+ujula, ujula, ujulat				
+ujuma, ujuda, ujun	plavat	v:		xHire
+Ukraina, ?, ?	Ukrajina			xHire
+ukrainlane, ukrainlase, ukrainlast	Ukrajinec			xHire
+ukrainlane, ukrainlase, ukrainlast	Ukrajinka			xHire
+uks, ukse, ust, uste, uksi	dveře	n:		xHire
+umbes	asi			xHire
+umbes	kolem	prep:		xHire
+umbes	okolo			xHire
+umbes	přibližně	prep:		xHire
+ungari, ?, ?	maďarský			xHire
+Ungari, ?, ?	Maďarsko			xHire
+ungarlane, ungarlase, ungarlast	Maďar			xHire
+ungarlane, ungarlase, ungarlast	Maďarka			xHire
+uni, une, und	spánek	n:		xHire
+unikaalne, ?, ?				
+unistama, unistada, ?		v:		
+unistus, ?, ?, ?, ?	sen	n:		xHire
+unisus, ?, ?				
+universaalne, ?, ?, ?, ?	univerzální	adj:		xHire
+unustama, ?, unustan				
+uppuma, uppuda, upun	topit se			xHire
+urb, ?, ?				
+Urmas, ?, ?		mužské jméno		
+Urve, ?, ?		ženské jméno		
+usaldus, ?, ?				
+usk, ?, ?				
+usklik, uskliku, ?, ?, ?	věřící	n:		xHire
+uss, ?, ?, ?, usse	had	n:		xHire
+usuteadus, usuteaduse, ?				
+uudsevili, uudsevilja, uudsevilja, uudseviljade, uudsevilju		n:		
+uuelt	nově	adv:		xHire
+uuesti				
+uurima, ?, ?	zjistit	v:		xHire
+uurima, ?, ?	zpozorovat	v:		xHire
+uus, uue, uut, uute, uusi, [ILL] uude	nový	adj:		xHire
+vaade, vaate, vaadet				
+vaal, vaala, vaala	velryba	n:		xHire
+vaarikas, vaarika ?	malina	n:		xHire
+vaas, vaasi, vaasi	váza	n:		xHire
+vaatama, vaadata, vaatan	dívat se	v: +PART		xHire
+vaba, vaba, vaba	svobodný	adj:		xHire
+vaba, vaba, vaba	volný	adj:		xHire
+vabadus, vabaduse, ?, ?, ?	svoboda	n:		xHire
+vabandage!	promiňte!			xHire
+vabandama, vabandada, vabandan	omluvit se			xHire
+vabariik, vabariigi, vabariiki	republika	n:		xHire
+vabrik, ?, ?	továrna			xHire
+vaev, vaeva, vaeva				
+vagu, vao, vagu				
+vahel	mezi	adp: +GEN	FIXME: vähel?	xHire
+vahelduvvool, ?, ?, ?, ?	střídavý proud	n: [el.]		xHire
+vahendama, ?, ?	zprostředkovat	v:		xHire
+vaher, vahtra, ?, ?, ?	javor	n: [bot.]		xHire
+vahtama, ?, ?	koukat	v:		xHire
+vaid	nýbrž	conj:		xHire
+vaikne, vaikse, vaikset, vaiksete, vaikseid	tichý	adj:		xHire
+vaip, vaiba, vaipa, ?, ?	koberec	n:		xHire
+vajutama, ?, ?		v:		
+vald, valla, valda				
+vale, vale, valet, ?, ?	chybný	adj:		xHire
+vale, vale, valet, ?, ?	nepravdivý	adj:		xHire
+vale, vale, valet, ?, ?	špatný	adj:		xHire
+valeühendus, ?, ?	špatné číslo	když se člověk dovolá někam jinam: Teil on ~. – Máte ~.		xHire
+valeühendus, valeühenduse, valeühendust	špatné číslo			xHire
+valeühendus, valeühenduse, valeühendust	špatné spojení			xHire
+valeühendus, valeühenduse, valeühendust	špatný kontakt			xHire
+valge, valge, valget, valgete, valgeid	bílý	adj:		xHire
+Valgevene, ?, ?	Bělorusko			xHire
+valgus, valguse, valgust	bělost	n:		xHire
+valgus, valguse, valgust	světlost	n:		xHire
+valgusti, ?, ?	svítidlo	n:		xHire
+valima, valida, valin	vybrat	v: +PART		xHire
+vallaline, ?, ?	svobodný	adj:	rodinný stav	xHire
+vallandama, vallandada, vallandan		v:		
+vallatu, vallatu, vallatut				
+valmis tegema, ?, ?	připravit	v:		xHire
+valmistama, ?, ?	připravit	v:		xHire
+vana, vana, vana, vanade, vanu	starý	adj:		xHire
+vanaema, vanaema, vanaema	babička	n:		xHire
+vanaisa, vanaisa, vanaisa	dědeček	n:		xHire
+vanalt	staře	adv:		xHire
+vanem, vanema, vanemat, vanemate, vanemaid		n:		
+vanem, vanema, vanemat, vanemate, vanemaid	starší	adj:		xHire
+vangerdus, ?, ?	rošáda	tah v šachu		xHire
+vangi panema, ?, ?	dát do vězení	v:		xHire
+vangutama, ?, ?	drbat se	v: +PART	např. Ta vangutas pead. – Drbal se na hlavě.	xHire
+vanim, ?, ?, ?, ?	nejstarší	adj:		xHire
+vanker, ?, ?	věž	n:	v šachu; V	xHire
+vara	brzy	adv:		xHire
+varane, ?, ?, ?, ?	brzký	adj:		xHire
+varane, ?, ?, ?, ?	časný	adj:		xHire
+varastama, ?, ?	krást	v:		xHire
+varem	dříve	adv:		xHire
+vares, varese, vares				
+vari, varju, varju, ?, ?	stín	n:		xHire
+variant, variandi, varianti, ?, ?	varianta	n:		xHire
+Varssavi, ?, ?	Varšava		hlavní město Polska	xHire
+varvas, varba, varvast				
+varvas, varba, varvast, varvaste, varvastaid	prst na noze	n:		xHire
+vasak, vasaku, vasakut, ?, ?	levý	adj:		xHire
+vasakul	nalevo	adv:		xHire
+vasakul	vlevo	adv:		xHire
+vaseliin, ?, ?				
+vastama, vastata, vastan	odpovědět	v:		xHire
+vastama, vastata, vastan	odpovídat	v:	na otázku, ale i něco něčemu (ve smyslu přirovnání)	xHire
+vastik, vastiku, vastikku, ?, ?		adj:		
+vastu				
+vastus, vastuse, vastust, ?, ?	odpověď	n:		xHire
+vastuvõtt, vastuvõtu, ?				
+vatt, ?, ?				
+vedama, vedada, vean		v: +PART		
+veeaur, ?, ?	vodní pára			xHire
+veeb, veebi, ?, ?, ?	web n: [it.]	WWW		xHire
+veebiaadress, ?, ?, ?, ?	webová adresa	n: [it.]		xHire
+veebibrauser, veebibrauseri, ?, ?, ?	webový prohlížeč	n: [it.]		xHire
+veebileht, veebilehe, veebilehte, veebilehtede, veebilehti	webová stránka	n: [it.]		xHire
+veebimail, ?, ?, ?, ?	webmail	n:		xHire
+veebisait, veebisaidi, ?, ?, ?	web n: [it.]	webová stránka		xHire
+veebiserver, ?, ?, ?, ?	webový server	n:		xHire
+veebruar, veebruari, ?	únor			xHire
+veekeedukann, ?, ?				
+veel	ještě			xHire
+veelkord	ještě jednou	adv:		xHire
+veendma, ?, ?	přesvědčit se	v:		xHire
+veerand	čtvrt			xHire
+veetma, veeta, veedan	trávit	v:	čas – aega veetma	xHire
+vehkleja, ?, ?, ?, ?	šermíř	n:		xHire
+vehklemine, vehklemise, vehklemistst, ?, ?	šermování			xHire
+veidi	trochu	adv:		xHire
+vein, ?, veini, ?, ?	víno	n:		xHire
+vend, venna, venda, ?, ?	bratr	n:		xHire
+vene, vene, vene	ruský			xHire
+venelane, venelase, venelast	Rus			xHire
+venelane, venelase, venelast	Ruska			xHire
+Venemaa, Venemaa, Venemaad	Rusko			xHire
+ventilatsioon, ?, ?	ventilace	n:		xHire
+verb, verbi, verbi, verbide, verbe	sloveso	n: [lingv.]		xHire
+vereringe, ?, ?, ?, ?		n:		
+veri, vere, verd, verede, veresid	krev	n:		xHire
+versioon, ?, ?, ?, ?	verze	n:		xHire
+vesi, vee, vett, vete, vesi, [ILL] vette	voda	n:		xHire
+vesine, ?, ?, ?, ?		adj:		
+vesinik, ?, ?	vodík	n: [chem.]		xHire
+veski, veski, veskit, veskite, veskeid				
+video, video, videot, videote, videoid	video	n:		xHire
+viga, vea, viga, ?, ?	chyba	n:		xHire
+viga, vea, viga, ?, ?	omyl	n:		xHire
+vihane olema, vihane olla, olen vihane	být naštvaný	v:	na něco/na někoho → millegi peale/kellegi peale	xHire
+vihik, vihiku, vihikut, vihikute, vihikuid	sešit	n:		xHire
+vihm, vihma, vihma, ?, ?	déšť	n:		xHire
+vihmamantel, ?, ?, ?, ?	pršiplášť	n:		xHire
+vihmane, vihmase, vihmast, vihmaste, vihmaseid	deštivý	adj:		xHire
+vihmavari, vihmavarju, vihmavarju, ?, ?	deštník	n:		xHire
+viima, viia, viin	donést	v: +PART		xHire
+viimane, ?, ?, ?, ?	poslední	adj:		xHire
+viin, ?, ?	pálenka			xHire
+Viin, ?, ?	Vídeň		hlavní město Rakouska	xHire
+viinamari, ?, ?	hroznové víno			xHire
+viinamari, ?, ?	hrozny			xHire
+viiner, viineri, viinerit, ?, ?	párek	n:		xHire
+viiner, viineri, viinerit, ?, ?	vídeňský párek	n:		xHire
+viipama, ?, ?	mávat	v:	např. ~ na rozloučenou – ~ hüvastijätuks	xHire
+viis, viie, viit	pět			xHire
+viis, viisi, viisi, viiside, viise	melodie	n:		xHire
+viisa, visa, viisat, ?, ?	vízum	n:		xHire
+viiskümmend, ?, ?	padesát			xHire
+viissada, ?, ?	pět set			xHire
+viisteist, ?, ?	patnáct			xHire
+viitenumber, viitenumbri, viitenumbrit	variabilní symbol		v bankovním spojení	xHire
+viiul, viiuli, viiulit, viiulite, viiuleid	housle	n:		xHire
+Vikipeedia, ?, ?, ?, ?	Wikipedie	n: [jmén.]		xHire
+vilistama, ?, vilistan	zapískat	v:		xHire
+viljakas, viljaka, ?, ?, ?	úrodný	adj:		xHire
+Viljar, ?, ?		mužské jméno		
+Villem, ?, ?	Vilém	mužské jméno		xHire
+Vilnius, ?, ?	Vilnius		hlavní město Litvy	xHire
+violetne, ?, ?				
+virsik, virsiku, ?	broskev			xHire
+virtuaalraha, ?, ?	virtuální měna			xHire
+virtuaalraha, ?, ?	virtuální peníze			xHire
+Virve, ?, ?		ženské jméno		
+vise, viske, viset				
+visiit, ?, ?				
+viskama, visata, viskan	hodit	v:		xHire
+vist	už			xHire
+vitamiin, vitamiini, ?, ?, ?	vitamín	n:		xHire
+vood, voodi, voodit, ?, voode	postel	n:		xHire
+vool, ?, ?, ?, ?	proud	n:		xHire
+vorm, vormi, ?, ?, ?	forma	n:		xHire
+vorm, vormi, ?, ?, ?	tvar	n:		xHire
+vorst, vorsti, vorsti, ?, ?	salám	n:		xHire
+Vošingtn, ?, ?	Washington			xHire
+vox populi				
+vulgaarladina keel	lidová latina	n:		xHire
+vulgaarladina keel	vulgární latina	n:		xHire
+vulkaan, ?, ?	vulkán			xHire
+võbisema, ?, ?	chvět se	v:		xHire
+või	nebo			xHire
+või, või, võid	máslo			xHire
+võib-olla	možná			xHire
+võiküpsis, võiküpsise, võiküpsist, võiküpsiste, võiküpsiseid	máslová sušenka	n:		xHire
+võileib, võileiva, võileiba, ?, ?	chleba s máslem	n:		xHire
+võileib, võileiva, võileiba, ?, ?	chlebíček	n:		xHire
+võima, võida, võin	moci	v: +DA infinitiv		xHire
+võimalik, ?, ?, ?, ?	možný	adj:		xHire
+võimalus, võimaluse, võimalust, võimaluste, võimalusi	možnost	n:		xHire
+võimla, võimla, võimlat				
+võimlemine, võimlemise, võimlemist, võimlemiste, võimlemisi				
+võistlema, võistelda, võistlen		v:		
+võitlema, võidelda, võitlen		v:		
+võlg, ?, ?				
+võra, ?, ?				
+võrdne olema, võrdne olla, on võrdne		v:		
+võrduma, võrduda, võrdub	rovná se			xHire
+võrguadapter, ?, ?, ?, ?	síťový adaptér	n: [it.]		xHire
+võrgukaart, ?, ?, ?, ?	síťová karta	n: [it.]		xHire
+võrk, võrgu, võrku, võrkude, võrke	síť	n:		xHire
+võrkpall, võrkpalli, võrkpalli	volejbal	n:		xHire
+võte, võtte, võtet				
+võti, võtme, võtit, võtmete, võtmeid		n:		
+võtma, võtta, võtan	svléci	v:	např. svléci si kabát – mantlit seljast võtma (FIXME?)	xHire
+võtma, võtta, võtan	vzít	v:		xHire
+võõras, võõra, võõrast, võõraste, võõraid	cizí	adj:		xHire
+väga	velmi	adv:		xHire
+vähe	málo	adv:		xHire
+vähem	méně			xHire
+väike, väikese, väikest, ?, ?	malý	adj:		xHire
+väike, väikse, väikest, ?, ?	malý	adj:		xHire
+väikene, väikese, väikest, ?, ?	malý	adj:		xHire
+väikseim, ?, ?, ?, ?	nejmenší	adj:		xHire
+väiksem, ?, ?, ?, ?	menší	adj:		xHire
+väimees, ?, ?				
+välimus, välimuse, välimust, ?, ?	vzhled	n:		xHire
+välismaa, välismaa, välismaad	zahraničí	n:		xHire
+välja	z	adp: +ELA	zevnitř pryč	xHire
+välja	z	slovesná částice	zevnitř pryč; např. Rong sõidab välja. – Vlak odjíždí.	xHire
+välja ajama, ?, ?	vypláznout	v: +GEN	např. Vyplázl jazyk. – Ta ajas keele suust välja.	xHire
+välja nägema, välja näha, näen välja	vypadat	v: +INN	v něčem	xHire
+välja sõitma, välja sõita, sõidan välja	odjet (dopravní prostředek)			xHire
+välja sõitma, välja sõita, sõidan välja	odjet (dopravním prostředkem)			xHire
+välja tulema, välja tulla, tulen välja	vyjít	v:	např. z látky vyjde na kalhoty	xHire
+väljak, väljaku, ?, väljakute, ?	náměstí	n:		xHire
+väljakannatamatult	nesnesitelně	adv:		xHire
+väljend, väljendi, väljendit, väljendite, väljendeid		n:		
+väljuma, ?, ?	vystoupit	v:	z dopravního prostředku	xHire
+väljumine, ?, ?, ?, ?	odjezd			xHire
+vältima, vältida, väldin		v:		
+värav, värava, väravat	brána	n:		xHire
+värisema, ?, ?	třást se	v:		xHire
+värv, värvi, värvi, ?, värve	barva	n:		xHire
+värviline, ?, ?, ?, ?	barevný	adj:		xHire
+värvima, ?, ?	namalovat	v:		xHire
+väsima, väsida, ?	unavit se	v:		xHire
+väsinud	unavený	adj:	neskloňuje se – používá se jako spona přísudku	xHire
+väsitav, ?, ?, ?, ?	únavný	adj:		xHire
+väsitav, ?, ?, ?, ?	unavující	adj:		xHire
+väärima, ?, ?				
+vääritu, ?, ?				
+vöö, ?, ?				
+WC	WC	n: [zkr.]		xHire
+õde, õe, õde	sestra	n:		xHire
+õhk, õhu, õhku, ?, ?	vzduch	n:		xHire
+õhkama, ?, ?				
+õhkkond, ?, ?	atmosféra			xHire
+õhkuma, ?, ?				
+õhtu, õhtu, õhtut, õhtute, õhtuid	večer	n:		xHire
+õhtuks	navečer		v časových větách, např. Tulen õhtuks koju. – Přijdu navečer domů.	xHire
+õhuke, õhukese, õhukest, ?, ?	hubený	adj:		xHire
+õhuke, õhukese, õhukest, ?, ?	tenký	adj:		xHire
+õhurõhk, õhurõhu, õhurõhku				
+Õie, ?, ?		ženské jméno		
+õige	správně	adv:		xHire
+õige, õige, õiget, ?, ?	pravdivý	adj:		xHire
+õige, õige, õiget, ?, ?	správný	adj:		xHire
+õigus, ?, ?, ?, ?	pravda	n:		xHire
+õigusakt, õigusakti, ?	(právní akt?/zákon?)			xHire
+õigusteadus, ?, ?				
+õis, õie, õit				
+õlg, õla, õlga, ?, ?	rameno	n:		xHire
+õli, ?, ?				
+õlilamp, õlilambi, õlilampi				
+õlu, õlle, õlut, ?, ?	pivo	n:		xHire
+õmblema, õmmelda, õmblen	šít	v: +PART		xHire
+õnn, õnne, õnne, ?, ?	štěstí	n:		xHire
+õnne soovima, õnne soovida, soovin õnne	blahopřát	v:		xHire
+Õnne, ?, ?		? jméno		
+õnneks				
+õnnelik, õnneliku, õnnelikku, õnnelike, õnnelikke	šťastný	adj:	mít štěstí	xHire
+õnnestuma, ?, ?	uspět	v:		xHire
+õnnetu, õnnetu, õnnetut, ?, ?	nešťastný	adj:		xHire
+õnnitlema, õnnitleda, õnnitlen	blahopřát	v: +PART	komu	xHire
+õnu, ?, ?, ?, ?		n:		
+õpe, õppe, õpet				
+õpetaja, õpetaja, õpetajat	učitel	n:	na ZŠ, SŠ	xHire
+õpetaja, õpetaja, õpetajat	učitelka	n:		xHire
+õpetama, õpetada, õpetan	poučovat	v:		xHire
+õpetama, õpetada, õpetan	učit	v: +PART		xHire
+õpik, õpiku, õpikut, õpikute, õpikuid	učebnice	n:		xHire
+õpilane, õpilase, õpilast, õpilaste, õpilaseid	student	n:		xHire
+õppejõud, õppejõu, õppejõudu	učitel	n:	(na VŠ)	xHire
+õppima, õppida, õpin	studovat	v: +PART		xHire
+õppima, õppida, õpin	učit se	v: +PART		xHire
+õu, õue, õue				
+õudne, ?, ?				
+õues	venku			xHire
+õun, õuna, õuna, ?, õunu	jablko	n:		xHire
+õunapuu, õunapuu, õunapuud	jabloň	n:		xHire
+õõnestama, ?, ?				
+õõtsuma, ?, ?				
+ähvardus, ?, ?				
+äike, ?, ?				
+äkki	hned	adv:		xHire
+ämblik, ämbliku, ämblikut, ?, ämblikke	pavouk	n:		xHire
+ämblik, ämbliku, ämblikut, ?, ämblikkusid	pavouk	n:		xHire
+ämblikuvõrk, ?, ?, ?, ?	pavučina	n:		xHire
+ämm, ?, ?, ?, ?	bába	n:		xHire
+äpu, ?, ?				
+ära jooma, ?, joon ära	vypít			xHire
+ära jääma, ära jääda, jään ära				
+ära kaduma, ära kaduda, kaon ära	ztratit se	v: +GEN		xHire
+ära kaotama, ära kaotada, kaotan ära	ztratit			xHire
+ära kloppima, ära kloppida, klopin ära	vyklepat	v: +PART	např. koberec	xHire
+ära kulutama, ära kulutada, kulutan ära		v:		
+ära lendama, ära lennata, lendan ära	přiletět	v:		xHire
+ära maksma, ära maksta, maksan ära	zaplatit	v:		xHire
+ära mõõtma, ära mõõta, mõõdan ära	změřit	v:		xHire
+ära määrima, ära määrida, määrin ära	zamazat	v:		xHire
+ära pesema, ära pesta, pesen ära	umýt	v:		xHire
+ära pesema, ära pesta, pesen ära	umýt si	v:		xHire
+ära sööma, ?, söön ära	dojíst			xHire
+ära sööma, ?, söön ära	sníst			xHire
+ära vahetama, ära vahetada, vahetan ära		v:		
+ära varastama, ?, ?	ukradnout	v:		xHire
+äratama, ?, ?				
+äratuskell, äratuskella, äratuskella, ?, ?	budík	n:		xHire
+äri ajama, äri ajada, ajan äri	podnikat			xHire
+äri, äri, äri, ?, ?	firma	n:		xHire
+äri, äri, äri, ?, ?	obchod	n:		xHire
+äri, äri, äri, ?, ?	podnik	n:		xHire
+ärianalüüs, ärianalüüsi, ärianalüüsi, ärianalüüside, ärianalüüse		n:		
+ärikliima, ?, ?				
+äädikas, ?, ?				
+äär, ?, ?				
+ääres	u	adp: +GEN	anglicky „by“	xHire
+öeldakse	říká se			xHire
+öhe, ?, ?				
+ökoloogia, ?, ?	ekologie			xHire
+ökonoomika, ?, ?	ekonomika			xHire
+öö, öö, ööd, ööde, ?-sid	noc	n:		xHire
+ööbik, ?, ?				
+ööbima, ?, ?				
+öölane, ?, ?				
+ööpäev, ööpäeva, ööpäeva	den (24 hodin)			xHire
+öötöö				
+üheksa, üheksa, ?	devět			xHire
+üheksakümmend, ?, ?	devadesát			xHire
+üheksasada, ?, ?	devět set			xHire
+üheksateist, ?, ?	devatenáct			xHire
+ühendama, ühendada, ühendan	spojit	v:		xHire
+Ühendkuningriik Suurbritannia	Spojené království Velké Británie a Severního Irska			xHire
+ühendriiklane, ühendriiklase, ühendriiklast				
+ühendus, ühenduse, ühendust, ?, ?	kontakt	n:		xHire
+ühevärviline, ?, ?, ?, ?	jednobarevný	adj:		xHire
+üks, ühe, üht	jeden	num:		xHire
+üks, ühe, üht	jedna	num:		xHire
+üksi	sám		nikde nikdo	xHire
+ükskord	jednou	adv:		xHire
+üksteist, ?, ?	jedenáct	num:		xHire
+ülakoma, ?, ?, ?, ?	apostrof	n:		xHire
+üldse	úplně			xHire
+üldse	vůbec			xHire
+üle		prep: +?		
+üleeile	předvčerejškem			xHire
+ülehomme	pozítří	adv:		xHire
+ülekäik, ?, ?, ?, ?	přechod	n:	přes silnici	xHire
+ülemine, ?, ?				
+ülemus, ?, ?, ?, ?	nadřízený	n:		xHire
+ülemus, ?, ?, ?, ?	šéf	n:		xHire
+üles tõus, ?, ?, ?, ?	povstání	n:		xHire
+üles tõusma, üles tõusta, tõusen üles	vstávat	v:		xHire
+ülesanne, ülesande, ülesannet, ülesannete, ülesandeid	příklad	n:		xHire
+ülikond, ?, ülikonda, ?, ?	oblek	n:		xHire
+ülikool, ülikooli, ülikooli, ?, ?	univerzita	n:		xHire
+üliõpilane, üliõpilase, üliõpilast	vysokoškolský student			xHire
+üllatama, ?, ?				
+Ülle, ?, ?		? jméno		
+ümar, ?, ?, ?, ?	kulatý	adj:		xHire
+ümber	okolo	adp: +GEN		xHire
+ümber	okolo	prep: +GEN		xHire
+ümbermaailmareis	Člověče, nezlob se!		stolní hra	xHire
+ümbrik, ümbriku, ümbrikku, ?, ?	obálka	n:		xHire
+ümbrik, ümbriku, ümbrikut, ?, ?	obálka	n:	častější forma	xHire
+üpsilon, ?, ?	ypsilon	n:		xHire
+ürgne, ?, ?				
+üritama, üritada, üritan	pokoušet se	v: +DA infinitiv		xHire
+üritus, ürituse, ?, ?, ?		n:		
+ütlema, öelda, ütlen	říci	v:		xHire
+ütlema, öelda, ütlen	říct	v:		xHire
+ütlema, öelda, ütlen	říkat	v:		xHire
+ütlema, ütelda, ütlen	říci	v:		xHire
+ütlema, ütelda, ütlen	říct	v:		xHire
+ütlema, ütelda, ütlen	říkat	v:		xHire
+üürgama, ?, ?				
+üürima, ?, ?	pronajmout	v:		xHire
+X-kromosoom, ?, X-kromosoomist, ?, ?	chromozóm X	n: [bio.]		xHire
+Y-kromosoom, ?, Y-kromosoomist, ?, ?	chromozóm Y	n: [bio.]		xHire

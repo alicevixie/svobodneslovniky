@@ -4,4 +4,6 @@ addons:
   apt:
     packages:
     - python-pyicu
-script: en-cs/test.sh
+script:
+  - en-cs/test.sh
+  - et-cs/test.sh
